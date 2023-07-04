@@ -186,3 +186,73 @@ Worst Bigrams:
 
 Score: 35.43
 ```
+
+## Stats for column-staggered keyboards.
+
+Millennium:
+```
+Millennium
+m l d g w  q f o u ,
+h r t s y  p n a e i /
+z x k c v  j b ' ; .
+Rolls (l): 18.56%
+	Inward: ~6.29%
+	Outward: ~12.27%
+Rolls (r): 28.11%
+	Inward: ~17.15%
+	Outward: ~10.96%
+Alternates: ~36.91%
+Onehands: ~1.98%
+Redirects: ~5.74%
+Finger Speed (weighted): [0.68 0.89 0.69 3.46 1.04 1.18 1.20 1.17]
+Finger Speed (unweighted): [1.02 3.20 3.29 19.01 5.73 5.65 4.33 1.76]
+Highest Speed (weighted): 3.46 (LI)
+Highest Speed (unweighted): 19.01 (LI)
+Index Usage: 16.3% 12.8%
+SFBs: 0.854%
+DSFBs: 5.864%
+LSBs: 1.24%
+Top SFBs:
+	sc 0.138%	ue 0.129%	ys 0.105%	rl 0.077%
+	oa 0.075%	gs 0.061%	nf 0.060%	sy 0.049%
+
+Worst Bigrams:
+	ue 17.029	oa 11.602	lr 10.328	sc 9.482
+	ws 8.918	mh 8.183	i. 7.824	,i 7.077
+
+Score: 33.23
+```
+
+Millennium Y:
+```
+Millennium_Y
+m l d g v  q f o u ,
+h r t s w  j n a e i /
+z x k c b  p y ' ; .
+Rolls (l): 18.83%
+	Inward: ~5.65%
+	Outward: ~13.17%
+Rolls (r): 26.76%
+	Inward: ~17.03%
+	Outward: ~9.73%
+Alternates: ~38.08%
+Onehands: ~2.30%
+Redirects: ~5.34%
+Finger Speed (weighted): [0.68 0.89 0.69 3.30 1.53 1.18 1.20 1.17]
+Finger Speed (unweighted): [1.02 3.20 3.29 18.13 8.42 5.65 4.33 1.76]
+Highest Speed (weighted): 3.30 (LI)
+Highest Speed (unweighted): 18.13 (LI)
+Index Usage: 15.9% 13.2%
+SFBs: 0.840%
+DSFBs: 6.030%
+LSBs: 1.04%
+Top SFBs:
+	sc 0.138%	ue 0.129%	ny 0.119%	rl 0.077%
+	oa 0.075%	gs 0.061%	nf 0.060%	ws 0.042%
+
+Worst Bigrams:
+	ue 17.029	oa 11.602	lr 10.328	sc 9.482
+	mh 8.183	i. 7.824	np 7.805	sb 7.205
+
+Score: 33.76
+```
