@@ -37,5 +37,9 @@ Without angle mod (you type QWERTY C with your left middle finger):
 ![Millennium](https://github.com/ijzerbroot/millennium/blob/main/millennium.png)
 
 
+There is an alternative swap possible that will provide a more even load on the index fingers and may be preferable to some.
+
+Millennium_y (angle mod):
+![Millennium Y]((https://github.com/ijzerbroot/millennium/blob/main/millennium_y.png)
 
 
