@@ -8,7 +8,7 @@ It takes care to avoid the following:
 * Awkward finger stretches in general.
 
 It goes without saying that the base principle is to keep oft-used keys in easy to reach positions, where the most commonly used letters in English are on "home row".
-In addition to the above it tries to optimize for "rolls", which can be thought of as pressing neighboring keys in order such as QWERTY's "ER". 
+In addition to the above it tries to optimize for comfortable movements, such as pressing neighboring keys in order such as QWERTY's "ER". 
 
 It started from combining a few traits from layouts created by the AKL community.
 Inspiration came mainly from the excellent [Maya](https://docs.google.com/document/u/0/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/mobilebasic#h.15eb7sf9z9p9) and [Sturdy](https://docs.google.com/document/u/0/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/mobilebasic#h.gmmedttxvbs3) layouts. Kudos to Adi.Lela and Oxey.
