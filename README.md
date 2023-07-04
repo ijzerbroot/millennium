@@ -127,7 +127,6 @@ Score: 67.51
 Millennium Y:
 ```
 Millennium_Y
-Millennium_Y
 m l d g v q f o u ,
 h r t s w j n a e i /
 z x k c b p y ' ; .
@@ -164,7 +163,6 @@ Score: 66.43
 
 Millennium Y angle:
 ```
-Millennium_Y_angle
 Millennium_Y_angle
 m l d g v  q f o u ,
 h r t s b  j n a e i /
