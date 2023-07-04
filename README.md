@@ -60,6 +60,7 @@ z x k c v j b ' ; .
 0 1 2 3 3 4 4 5 6 7
 0 1 2 3 3 4 4 5 6 7 7
 0 1 2 3 3 4 4 5 6 7
+
 Rolls (l): 19.81%
 	Inward: ~6.17%
 	Outward: ~13.64%
@@ -97,10 +98,7 @@ x k c w z j b ' ; .
 0 1 2 3 3 4 4 5 6 7
 0 1 2 3 3 4 4 5 6 7 7
 1 2 3 3 3 4 4 5 6 7
-Millennium_angle
-m l d g v  q f o u ,
-h r t s y  p n a e i /
-x k c w z  j b ' ; .
+
 Rolls (l): 19.64%
 	Inward: ~6.01%
 	Outward: ~13.64%
@@ -138,10 +136,7 @@ z x k c b p y ' ; .
 0 1 2 3 3 4 4 5 6 7
 0 1 2 3 3 4 4 5 6 7 7
 0 1 2 3 3 4 4 5 6 7
-Millennium_Y
-m l d g v  q f o u ,
-h r t s w  j n a e i /
-z x k c b  p y ' ; .
+
 Rolls (l): 20.94%
 	Inward: ~5.36%
 	Outward: ~15.58%
@@ -179,10 +174,7 @@ x k c w z  p y ' ; .
 0 1 2 3 3 4 4 5 6 7
 0 1 2 3 3 4 4 5 6 7 7
 1 2 3 3 3 4 4 5 6 7
-Millennium_Y_angle
-m l d g v  q f o u ,
-h r t s b  j n a e i /
-x k c w z  p y ' ; .
+
 Rolls (l): 21.10%
 	Inward: ~5.19%
 	Outward: ~15.91%
