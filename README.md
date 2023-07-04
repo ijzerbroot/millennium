@@ -41,6 +41,8 @@ There is an alternative swap possible that will provide a more even load on the 
 It may be preferable to some.
 
 Millennium_y (angle mod):
-![Millennium Y](https://github.com/ijzerbroot/millennium/blob/main/millennium_y.png)
+![Millennium Y](https://github.com/ijzerbroot/millennium/blob/main/millennium_y_angle.png)
 
+Millennium_y (without angle mod):
+![Millennium Y](https://github.com/ijzerbroot/millennium/blob/main/millennium_y.png)
 
