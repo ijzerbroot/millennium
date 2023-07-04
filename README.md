@@ -47,7 +47,8 @@ Millennium_y (without angle mod):
 ![Millennium Y](https://github.com/ijzerbroot/millennium/blob/main/millennium_y.png)
 
 
-Stats from [genkey](https://semilin.github.io/pages/genkey.html):
+## Stats
+Stats from [genkey](https://semilin.github.io/pages/genkey.html) show most movement is on the left index finger (which is fine by me and not extraordinarily high but bear it in mind). 
 
 Millennium:
 ```
