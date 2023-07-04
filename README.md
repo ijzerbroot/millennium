@@ -47,7 +47,7 @@ Millennium_y (without angle mod):
 ![Millennium Y](https://github.com/ijzerbroot/millennium/blob/main/millennium_y.png)
 
 
-## Stats
+## Stats [WIP] stats look incorrect and may be double counting FSB's
 Stats from [genkey](https://semilin.github.io/pages/genkey.html) show most movement is on the left index finger (which is fine by me and not extraordinarily high but bear it in mind). 
 It was run with the _-stagger_ option for regular keyboards.
 
