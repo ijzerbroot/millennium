@@ -27,10 +27,10 @@ What works for me may be bad for you and you should certainly expect that any QW
 The layout proper:
 
 Using angle mod (you type QWERTY C with your left index finger):
-[Millennium Angle](https://github.com/ijzerbroot/millennium/blob/main/millennium-angle.png)
+![Millennium Angle](https://github.com/ijzerbroot/millennium/blob/main/millennium-angle.png)
 
 Without angle mod (you type QWERTY C with your left middle finger):
-[Millennium](https://github.com/ijzerbroot/millennium/blob/main/millennium.png)
+![Millennium](https://github.com/ijzerbroot/millennium/blob/main/millennium.png)
 
 
 
