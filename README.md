@@ -17,7 +17,8 @@ Where it mostly differs from the two inspirations is in placing H and M on left 
 As both H and M are relatively low-frequency letters in English it feels to me that this is easily handled.
 
 To my hands it feels uncomfortable to have movements like (in QWERTY-speak): "AW", "AE", "RD", "AD".
-In the millennium layout they have become "HL", "HD", "GT" and "HT", which are much less common in my daily typing. 
+In the millennium layout they have become "HL", "HD", "GT" and "HT", which are much less common in my daily typing.
+NOTE: TH in millennium moves from middle finger to pinky, which is definitely not the same thign as the other way around. TH on millennium works fine for me.
 
 Some letter-combinations that I think work particularly well on Millennium are words like "and", "note", "hold", "under", "test", "get", "starts" but even with M on pinky a word like "must" flows nicely.
 Opinions may differ on this but it works for me!
