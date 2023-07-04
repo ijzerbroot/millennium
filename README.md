@@ -15,6 +15,8 @@ Inspiration came mainly from the excellent [Maya](https://docs.google.com/docume
 
 Where it mostly differs from the two inspirations is in placing H and M on left pinky, thereby avoiding an NH column or an N-pinky, neither of which I liked very much. 
 As both H and M are relatively low-frequency letters in English it feels to me that this is easily handled.
+To my hands it feels uncomfortable to have movements like (in QWERTY-speak): "AW", "AE", "RD", "AD".
+In the millennium layout they have become "HL", "HD", "GT" and "HT", which are much less common. 
 
 Some letter-combinations that I think work particularly well on Millennium are words like "and", "note", "hold", "under", "test", "get", "starts" but even with M on pinky a word like "must" flows nicely.
 Opinions may differ on this but it works for me!
