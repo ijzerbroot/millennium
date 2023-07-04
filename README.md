@@ -53,9 +53,12 @@ Stats from [genkey](https://semilin.github.io/pages/genkey.html) show most movem
 Millennium:
 ```
 Millennium
-m l d g w  q f o u ,
-h r t s y  p n a e i /
-z x k c v  j b ' ; .
+m l d g w q f o u ,
+h r t s y p n a e i /
+z x k c v j b ' ; .
+0 1 2 3 3 4 4 5 6 7
+0 1 2 3 3 4 4 5 6 7 7
+0 1 2 3 3 4 4 5 6 7
 Rolls (l): 19.81%
 	Inward: ~6.17%
 	Outward: ~13.64%
@@ -87,9 +90,12 @@ Score: 62.80
 Millennium Angle:
 ```
 Millennium_angle
-m l d g v  q f o u ,
-h r t s y  p n a e i /
-x k c w z  j b ' ; .
+m l d g v q f o u ,
+h r t s y p n a e i /
+x k c w z j b ' ; .
+0 1 2 3 3 4 4 5 6 7
+0 1 2 3 3 4 4 5 6 7 7
+1 2 3 3 3 4 4 5 6 7
 Rolls (l): 19.64%
 	Inward: ~6.01%
 	Outward: ~13.64%
@@ -121,9 +127,13 @@ Score: 67.51
 Millennium Y:
 ```
 Millennium_Y
-m l d g v  q f o u ,
-h r t s w  j n a e i /
-z x k c b  p y ' ; .
+Millennium_Y
+m l d g v q f o u ,
+h r t s w j n a e i /
+z x k c b p y ' ; .
+0 1 2 3 3 4 4 5 6 7
+0 1 2 3 3 4 4 5 6 7 7
+0 1 2 3 3 4 4 5 6 7
 Rolls (l): 20.94%
 	Inward: ~5.36%
 	Outward: ~15.58%
@@ -155,9 +165,13 @@ Score: 66.43
 Millennium Y angle:
 ```
 Millennium_Y_angle
+Millennium_Y_angle
 m l d g v  q f o u ,
 h r t s b  j n a e i /
 x k c w z  p y ' ; .
+0 1 2 3 3 4 4 5 6 7
+0 1 2 3 3 4 4 5 6 7 7
+1 2 3 3 3 4 4 5 6 7
 Rolls (l): 20.78%
 	Inward: ~5.19%
 	Outward: ~15.58%
