@@ -46,3 +46,73 @@ Millennium_y (angle mod):
 Millennium_y (without angle mod):
 ![Millennium Y](https://github.com/ijzerbroot/millennium/blob/main/millennium_y.png)
 
+
+Stats from [genkey](https://github.com/semilin/genkey):
+
+Millennium:
+```
+Millennium
+m l d g w  q f o u ,
+h r t s y  p n a e i /
+z x k c v  j b ' ; .
+Rolls (l): 21.92%
+	Inward: ~8.12%
+	Outward: ~13.80%
+Rolls (r): 19.81%
+	Inward: ~11.85%
+	Outward: ~7.95%
+Alternates: ~38.15%
+Onehands: ~2.92%
+Redirects: ~7.63%
+Finger Speed (weighted): [1.40 1.75 0.64 5.28 2.82 1.70 1.54 0.15]
+Finger Speed (unweighted): [2.09 6.30 3.08 29.03 15.48 8.18 5.53 0.23]
+Highest Speed (weighted): 5.28 (LI)
+Highest Speed (unweighted): 29.03 (LI)
+Index Usage: 18.7% 14.0%
+SFBs: 1.959%
+DSFBs: 7.630%
+LSBs: 1.76%
+Top SFBs:
+	oa 0.478%	nf 0.239%	gs 0.239%	vg 0.239%
+	cs 0.239%	rl 0.119%	ue 0.119%	jq 0.119%
+
+Worst Bigrams:
+	gv 27.365	lr 25.421	ue 22.929	oa 20.737
+	gc 12.229	sc 11.793	gs 9.573	nj 9.200
+
+Score: 48.99
+```
+
+Millennium Y:
+```
+Millennium_Y
+m l d g v  q f o u ,
+h r t s w  j n a e i /
+z x k c b  p y ' ; .
+Rolls (l): 24.19%
+	Inward: ~7.79%
+	Outward: ~16.40%
+Rolls (r): 15.91%
+	Inward: ~9.42%
+	Outward: ~6.49%
+Alternates: ~40.10%
+Onehands: ~2.92%
+Redirects: ~7.47%
+Finger Speed (weighted): [1.40 1.75 0.64 5.94 2.99 1.70 1.54 0.15]
+Finger Speed (unweighted): [2.09 6.30 3.08 32.69 16.45 8.18 5.53 0.23]
+Highest Speed (weighted): 5.94 (LI)
+Highest Speed (unweighted): 32.69 (LI)
+Index Usage: 20.1% 12.6%
+SFBs: 1.861%
+DSFBs: 8.323%
+LSBs: 2.06%
+Top SFBs:
+	oa 0.478%	vg 0.239%	cs 0.239%	gs 0.239%
+	nf 0.239%	jq 0.119%	gc 0.119%	sc 0.119%
+
+Worst Bigrams:
+	lr 25.421	ue 22.929	oa 20.737	sb 15.935
+	vc 14.924	qp 13.167	gc 12.229	sc 11.793
+
+Score: 52.63
+```
