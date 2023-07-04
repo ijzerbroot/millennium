@@ -49,6 +49,7 @@ Millennium_y (without angle mod):
 
 ## Stats
 Stats from [genkey](https://semilin.github.io/pages/genkey.html) show most movement is on the left index finger (which is fine by me and not extraordinarily high but bear it in mind). 
+It was run with the _-stagger_ option for regular keyboards.
 
 Millennium:
 ```
@@ -68,23 +69,23 @@ Rolls (r): 20.13%
 Alternates: ~40.10%
 Onehands: ~2.60%
 Redirects: ~8.28%
-Finger Speed (weighted): [1.40 1.75 0.64 5.28 2.82 1.70 1.54 4.52]
-Finger Speed (unweighted): [2.09 6.30 3.08 29.03 15.48 8.18 5.53 6.79]
-Highest Speed (weighted): 5.28 (LI)
-Highest Speed (unweighted): 29.03 (LI)
+Finger Speed (weighted): [1.69 1.91 0.72 6.80 3.03 1.89 1.66 3.97]
+Finger Speed (unweighted): [2.54 6.89 3.44 37.38 16.64 9.05 5.99 5.95]
+Highest Speed (weighted): 6.80 (LI)
+Highest Speed (unweighted): 37.38 (LI)
 Index Usage: 18.7% 14.0%
 SFBs: 2.057%
 DSFBs: 8.439%
-LSBs: 2.45%
+LSBs: 1.37%
 Top SFBs:
-	oa 0.478%	vg 0.239%	gs 0.239%	cs 0.239%
-	nf 0.239%	nj 0.119%	/. 0.119%	ys 0.119%
+	oa 0.478%	nf 0.239%	gs 0.239%	vg 0.239%
+	cs 0.239%	rl 0.119%	gc 0.119%	/. 0.119%
 
 Worst Bigrams:
-	i/ 46.390	gv 27.365	lr 25.421	ue 22.929
-	oa 20.737	/. 19.878	gc 12.229	sc 11.793
+	i/ 46.390	gv 41.943	lr 27.602	ue 24.896
+	oa 22.516	sc 15.839	gc 14.624	hz 11.615
 
-Score: 62.80
+Score: 67.77
 ```
 
 Millennium Angle:
@@ -96,6 +97,10 @@ x k c w z j b ' ; .
 0 1 2 3 3 4 4 5 6 7
 0 1 2 3 3 4 4 5 6 7 7
 1 2 3 3 3 4 4 5 6 7
+Millennium_angle
+m l d g v  q f o u ,
+h r t s y  p n a e i /
+x k c w z  j b ' ; .
 Rolls (l): 19.64%
 	Inward: ~6.01%
 	Outward: ~13.64%
@@ -105,23 +110,23 @@ Rolls (r): 20.13%
 Alternates: ~40.10%
 Onehands: ~2.60%
 Redirects: ~7.95%
-Finger Speed (weighted): [0.55 1.83 0.74 7.48 2.82 1.70 1.54 4.52]
-Finger Speed (unweighted): [0.83 6.58 3.58 41.13 15.48 8.18 5.53 6.79]
-Highest Speed (weighted): 7.48 (LI)
-Highest Speed (unweighted): 41.13 (LI)
+Finger Speed (weighted): [0.60 1.91 0.71 6.32 3.03 1.89 1.66 3.97]
+Finger Speed (unweighted): [0.89 6.89 3.41 34.76 16.64 9.05 5.99 5.95]
+Highest Speed (weighted): 6.32 (LI)
+Highest Speed (unweighted): 34.76 (LI)
 Index Usage: 19.1% 14.0%
 SFBs: 2.253%
 DSFBs: 8.237%
-LSBs: 2.45%
+LSBs: 1.47%
 Top SFBs:
-	oa 0.478%	vg 0.239%	zs 0.239%	cs 0.239%
-	nf 0.239%	gs 0.239%	ys 0.119%	gc 0.119%
+	oa 0.478%	vg 0.239%	cs 0.239%	zs 0.239%
+	gs 0.239%	nf 0.239%	/. 0.119%	ue 0.119%
 
 Worst Bigrams:
-	i/ 46.390	sc 27.978	vc 26.489	lr 25.421
-	ue 22.929	oa 20.737	/. 19.878	gc 16.488
+	i/ 46.390	lr 27.602	ue 24.896	oa 22.516
+	sz 18.435	vc 17.092	sc 15.839	gc 12.495
 
-Score: 67.51
+Score: 63.25
 ```
 
 Millennium Y:
@@ -133,6 +138,10 @@ z x k c b p y ' ; .
 0 1 2 3 3 4 4 5 6 7
 0 1 2 3 3 4 4 5 6 7 7
 0 1 2 3 3 4 4 5 6 7
+Millennium_Y
+m l d g v  q f o u ,
+h r t s w  j n a e i /
+z x k c b  p y ' ; .
 Rolls (l): 20.94%
 	Inward: ~5.36%
 	Outward: ~15.58%
@@ -142,23 +151,23 @@ Rolls (r): 17.37%
 Alternates: ~43.83%
 Onehands: ~2.60%
 Redirects: ~6.33%
-Finger Speed (weighted): [1.40 1.75 0.64 5.94 2.99 1.70 1.54 4.52]
-Finger Speed (unweighted): [2.09 6.30 3.08 32.69 16.45 8.18 5.53 6.79]
-Highest Speed (weighted): 5.94 (LI)
-Highest Speed (unweighted): 32.69 (LI)
+Finger Speed (weighted): [1.69 1.91 0.72 7.04 2.95 1.89 1.66 3.97]
+Finger Speed (unweighted): [2.54 6.89 3.44 38.71 16.23 9.05 5.99 5.95]
+Highest Speed (weighted): 7.04 (LI)
+Highest Speed (unweighted): 38.71 (LI)
 Index Usage: 20.1% 12.6%
 SFBs: 1.959%
 DSFBs: 9.132%
-LSBs: 2.74%
+LSBs: 1.37%
 Top SFBs:
-	oa 0.478%	vg 0.239%	cs 0.239%	gs 0.239%
-	nf 0.239%	/. 0.119%	jq 0.119%	ue 0.119%
+	oa 0.478%	vg 0.239%	cs 0.239%	nf 0.239%
+	gs 0.239%	/. 0.119%	jq 0.119%	ue 0.119%
 
 Worst Bigrams:
-	i/ 46.390	lr 25.421	ue 22.929	oa 20.737
-	/. 19.878	sb 15.935	vc 14.924	qp 13.167
+	i/ 46.390	lr 27.602	sb 27.458	ue 24.896
+	oa 22.516	sc 15.839	qp 15.746	gc 14.624
 
-Score: 66.43
+Score: 69.09
 ```
 
 Millennium Y angle:
@@ -170,30 +179,34 @@ x k c w z  p y ' ; .
 0 1 2 3 3 4 4 5 6 7
 0 1 2 3 3 4 4 5 6 7 7
 1 2 3 3 3 4 4 5 6 7
-Rolls (l): 20.78%
+Millennium_Y_angle
+m l d g v  q f o u ,
+h r t s b  j n a e i /
+x k c w z  p y ' ; .
+Rolls (l): 21.10%
 	Inward: ~5.19%
-	Outward: ~15.58%
-Rolls (r): 17.37%
-	Inward: ~10.06%
-	Outward: ~7.31%
+	Outward: ~15.91%
+Rolls (r): 17.05%
+	Inward: ~9.90%
+	Outward: ~7.14%
 Alternates: ~43.83%
 Onehands: ~2.60%
-Redirects: ~6.01%
-Finger Speed (weighted): [0.55 1.83 0.74 9.75 2.99 1.70 1.54 4.52]
-Finger Speed (unweighted): [0.83 6.58 3.58 53.64 16.45 8.18 5.53 6.79]
-Highest Speed (weighted): 9.75 (LI)
-Highest Speed (unweighted): 53.64 (LI)
-Index Usage: 20.5% 12.6%
-SFBs: 2.155%
-DSFBs: 8.930%
-LSBs: 2.74%
+Redirects: ~6.49%
+Finger Speed (weighted): [0.60 1.91 0.71 6.52 3.63 1.89 1.66 3.97]
+Finger Speed (unweighted): [0.89 6.89 3.41 35.85 19.97 9.05 5.99 5.95]
+Highest Speed (weighted): 6.52 (LI)
+Highest Speed (unweighted): 35.85 (LI)
+Index Usage: 20.1% 13.0%
+SFBs: 1.959%
+DSFBs: 9.131%
+LSBs: 1.67%
 Top SFBs:
-	oa 0.478%	cs 0.239%	vg 0.239%	zs 0.239%
-	gs 0.239%	nf 0.239%	ue 0.119%	/. 0.119%
+	oa 0.478%	gs 0.239%	cs 0.239%	vg 0.239%
+	nf 0.239%	nj 0.119%	sc 0.119%	py 0.119%
 
 Worst Bigrams:
-	i/ 46.390	bc 32.974	sc 27.978	vc 26.489
-	lr 25.421	ue 22.929	oa 20.737	/. 19.878
+	i/ 46.390	lr 27.602	ue 24.896	oa 22.516
+	bc 20.770	vc 17.092	sc 15.839	qp 15.746
 
-Score: 75.98
+Score: 66.44
 ```
