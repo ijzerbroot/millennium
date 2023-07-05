@@ -51,9 +51,10 @@ Millennium_y (without angle mod):
 Stats from [genkey](https://semilin.github.io/pages/genkey.html) show most movement is on the left index finger (which is fine by me and not extraordinarily high but bear it in mind). 
 It was run with the _-stagger_ option for regular keyboards and is otherwise unmodified/unconfigured.
 Stats depend on a text corpus, which may differ so these "scores" may not be exactly comparable to scores from other genkey-runs that you may find on the internet. 
-I have added two well-known layouts' scoring for reference. One is the well-known Colemak-DH layout and one is the high-performance [Semimak-JQ](https://semilin.github.io) layout (by the creator of genkey as it happens).
-Lower scores are better. It shows that the genkey algorithm considers the Millennium-family to be close to Semimak JQ and considerably "better" than Colemak DH for what it's worth. Personal preferences may be different and analyzers provide guidance rather than judgment. I personally believe that scores within about 5 points of each other are likely more a matter of personal preference than signifying "better" or "worse" in absolute terms. 
-I have also added stats for column-staggered boards which should work even better with the non-angled versions of Millennium/Y; since i do not own such a board myself I cannot personally judge if the analyzer is correct on that topic.
+I have added two well-known layouts' stats for reference. One is the well-known Colemak-DH layout and one is the high-performance [Semimak-JQ](https://semilin.github.io) layout (by the creator of genkey as it happens).
+Lower scores are "better" in the sense that the scoring-algorithm believes there are less undesirable traits such as single-finger repetition, high movement, usage-imbalance between fingers, etc. 
+It shows that the genkey algorithm considers the Millennium-family to be fairly close to Semimak JQ and considerably "better" than Colemak DH for what it's worth. Personal preferences are different and analyzers provide guidance rather than judgment. As _genkey's_ creator puts it "What matters is not how well the layout fits the metrics, it's how well the metrics fit you".
+I have also added stats for column-staggered boards which should work even better with the non-angled versions of Millennium/Y; since I do not own such a board myself I cannot personally judge if the analyzer is correct on that topic.
 
 Millennium:
 ```
