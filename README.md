@@ -25,7 +25,7 @@ Opinions may differ on this but it works for me!
 
 ## Word of warning
 **Keyboard layouts are quite personal and Millennium makes no ergonomic claims.**
-If you are unsure whether trying an alternative keyboard layout such as this might give you Carpal tunnel syndrome or similar negative side-effects, just don't do it. Use at your own risk. 
+If you are unsure whether trying an alternative keyboard layout such as this might give you Carpal tunnel syndrome or other negative side-effects, just don't do it. Use at your own risk. 
 What works for me may be bad for you and you should certainly expect that any QWERTY-muscle memory that you had will be negatively affected.
 
 The layout proper:
@@ -50,6 +50,9 @@ Millennium_y (without angle mod):
 ## Stats
 Stats from [genkey](https://semilin.github.io/pages/genkey.html) show most movement is on the left index finger (which is fine by me and not extraordinarily high but bear it in mind). 
 It was run with the _-stagger_ option for regular keyboards and is otherwise unmodified/unconfigured.
+Stats depend on a text corpus, which may differ so these "scores" may not be exactly comparable to scores from other genkey-runs that you may find on the internet. 
+I have added two well-known layouts' scoring for reference. One is the well-known Colemak-DH layout and one is the top-performing [Semimak-JQ](https://semilin.github.io) layout (by the creator of genkey as it happens).
+Lower scores are better. It shows that the genkey algorithm considers the Millennium-family to be roughly on par with Semimak JQ and considerably "better" than Colemak DH for what it's worth. Personal preferences may be different and analyzers provide guidance rather than judgment.
 
 Millennium:
 ```
@@ -185,6 +188,74 @@ Worst Bigrams:
 	i. 10.508	mh 8.885	,i 7.684	vc 7.066
 
 Score: 35.43
+```
+
+Colemak DH:
+```
+Colemak DH
+q w f p b  j l u y ;
+a r s t g  m n e i o '
+z x c d v  k h , . /
+Rolls (l): 18.04%
+	Inward: ~11.48%
+	Outward: ~6.57%
+Rolls (r): 28.64%
+	Inward: ~13.75%
+	Outward: ~14.89%
+Alternates: ~30.81%
+Onehands: ~2.51%
+Redirects: ~10.74%
+Finger Speed (weighted): [0.42 0.53 1.85 4.00 4.90 1.79 1.44 0.60]
+Finger Speed (unweighted): [0.63 1.91 8.87 21.99 26.95 8.59 5.18 0.90]
+Highest Speed (weighted): 4.90 (RI)
+Highest Speed (unweighted): 26.95 (RI)
+Index Usage: 19.2% 18.9%
+SFBs: 1.092%
+DSFBs: 7.903%
+LSBs: 1.12%
+Top SFBs:
+	e, 0.183%	sc 0.138%	ue 0.129%	y. 0.087%
+	nk 0.079%	pt 0.078%	nl 0.068%	kn 0.055%
+
+Worst Bigrams:
+	lh 15.644	sc 14.593	ue 13.868	y. 12.940
+	fc 11.532	e, 9.753	mn 9.623	mh 9.123
+
+Score: 47.81
+```
+
+Semimak JQ:
+```
+Semimak JQ
+f l h v z  ' w u o y
+s r n t k  c d e a i ;
+x j b m q  p g , . /
+Rolls (l): 17.37%
+	Inward: ~7.81%
+	Outward: ~9.56%
+Rolls (r): 25.32%
+	Inward: ~12.56%
+	Outward: ~12.76%
+Alternates: ~40.59%
+Onehands: ~1.88%
+Redirects: ~6.57%
+Finger Speed (weighted): [0.84 0.83 0.87 1.18 1.97 1.79 2.49 1.16]
+Finger Speed (unweighted): [1.26 2.99 4.18 6.51 10.85 8.59 8.96 1.74]
+Highest Speed (weighted): 2.49 (RR)
+Highest Speed (unweighted): 10.85 (RI)
+Index Usage: 13.4% 13.1%
+SFBs: 0.693%
+DSFBs: 5.795%
+LSBs: 1.01%
+Top SFBs:
+	e, 0.183%	ue 0.129%	rl 0.077%	oa 0.075%
+	yi 0.037%	tm 0.028%	dg 0.026%	a. 0.024%
+
+Worst Bigrams:
+	o. 17.497	oa 16.796	ue 13.868	yi 12.362
+	lr 11.214	e, 9.753	tm 8.919	fs 8.568
+
+Score: 34.50
 ```
 
 ## Stats for column-staggered keyboards.
