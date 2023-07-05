@@ -1,15 +1,14 @@
-# Millennium
-A keyboard layout
+# Millennium / Millennium_Y
 
-Millennium is a custom keyboard layout that is meant to improve touch typing comfort.
-It takes care to avoid the following:
+Millennium and Millennium_Y are custom keyboard layouts that are meant to improve touch typing comfort.
+I took care to avoid the following:
 * Commonly used letter combinations under the same finger
 * Reusing the same finger in short succession
 * Awkward finger stretches in general.
 
 It goes without saying that the base principle is to keep oft-used keys in easy to reach positions, where the most commonly used letters in English are on "home row".
-In addition to the above it tries to optimize for comfortable movements, such as pressing neighboring keys in order such as QWERTY's "ER".
-The hand-balance (amount of strokes typed on left hand versus right hand) is about 46% left and 54% right. For comparison, Colemak-DH has roughly a 44-56 balance.
+In addition to the above I've tried to optimize for comfortable movements, such as pressing neighboring keys in order such as with QWERTY's "ER".
+The hand-balance (share of strokes typed on left hand versus right hand) is about 46% left and 54% right for both Millennium-variants. For comparison, Colemak-DH roughly has a 44-56 balance.
 
 Millennium and its Millennium_Y variant started from combining a few traits from layouts created by the AKL community.
 Inspiration came mainly from the excellent [Maya](https://docs.google.com/document/u/0/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/mobilebasic#h.15eb7sf9z9p9) and [Sturdy](https://docs.google.com/document/u/0/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/mobilebasic#h.gmmedttxvbs3) layouts. Kudos to Adi.Lela and Oxey.
@@ -18,7 +17,7 @@ Where they mostly differ from the two inspirations is in placing H and M on left
 As both H and M are relatively low-frequency letters in English it feels to me that this is easily handled and "mother" is still comparatively easy to type despite having an M and an H.
 
 To my hands it feels uncomfortable to have movements like (in QWERTY-speak): "AW", "AE", "RD", "AD".
-In the millennium layout they have become "HL", "HD", "GT" and "HT", which are much less common in my daily typing.
+In the millennium layouts they have become "HL", "HD", "GT" and "HT", which are much less common in my daily typing.
 NOTE: "TH" in millennium moves from middle finger to pinky, which is definitely not the same thing as the other way around. "TH" on millennium works fine for me.
 
 Some letter-combinations that I think work particularly well on Millennium are words like "and", "note", "hold", "under", "test", "get", "starts" but even with M on pinky a word like "must" flows nicely.
