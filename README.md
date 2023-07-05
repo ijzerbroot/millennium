@@ -51,8 +51,8 @@ Millennium_y (without angle mod):
 Stats from [genkey](https://semilin.github.io/pages/genkey.html) show most movement is on the left index finger (which is fine by me and not extraordinarily high but bear it in mind). 
 It was run with the _-stagger_ option for regular keyboards and is otherwise unmodified/unconfigured.
 Stats depend on a text corpus, which may differ so these "scores" may not be exactly comparable to scores from other genkey-runs that you may find on the internet. 
-I have added two well-known layouts' scoring for reference. One is the well-known Colemak-DH layout and one is the top-performing [Semimak-JQ](https://semilin.github.io) layout (by the creator of genkey as it happens).
-Lower scores are better. It shows that the genkey algorithm considers the Millennium-family to be roughly on par with Semimak JQ and considerably "better" than Colemak DH for what it's worth. Personal preferences may be different and analyzers provide guidance rather than judgment.
+I have added two well-known layouts' scoring for reference. One is the well-known Colemak-DH layout and one is the high-performance [Semimak-JQ](https://semilin.github.io) layout (by the creator of genkey as it happens).
+Lower scores are better. It shows that the genkey algorithm considers the Millennium-family to be very close to Semimak JQ and considerably "better" than Colemak DH for what it's worth. Personal preferences may be different and analyzers provide guidance rather than judgment.
 
 Millennium:
 ```
