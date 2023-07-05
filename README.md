@@ -8,12 +8,13 @@ It takes care to avoid the following:
 * Awkward finger stretches in general.
 
 It goes without saying that the base principle is to keep oft-used keys in easy to reach positions, where the most commonly used letters in English are on "home row".
-In addition to the above it tries to optimize for comfortable movements, such as pressing neighboring keys in order such as QWERTY's "ER". 
+In addition to the above it tries to optimize for comfortable movements, such as pressing neighboring keys in order such as QWERTY's "ER".
+The hand-balance (amount of strokes typed on left hand versus right hand) is about 46% left and 54% right. For comparison, Colemak-DH has roughly a 44-56 balance.
 
-It started from combining a few traits from layouts created by the AKL community.
+Millennium and its Millennium_Y variant started from combining a few traits from layouts created by the AKL community.
 Inspiration came mainly from the excellent [Maya](https://docs.google.com/document/u/0/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/mobilebasic#h.15eb7sf9z9p9) and [Sturdy](https://docs.google.com/document/u/0/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/mobilebasic#h.gmmedttxvbs3) layouts. Kudos to Adi.Lela and Oxey.
 
-Where it mostly differs from the two inspirations is in placing H and M on left pinky, thereby avoiding an NH column or an N-pinky, neither of which I liked very much. 
+Where they mostly differ from the two inspirations is in placing H and M on left pinky, thereby avoiding an NH column or an N-pinky, neither of which I liked very much. 
 As both H and M are relatively low-frequency letters in English it feels to me that this is easily handled and "mother" is still comparatively easy to type despite having an M and an H.
 
 To my hands it feels uncomfortable to have movements like (in QWERTY-speak): "AW", "AE", "RD", "AD".
