@@ -53,6 +53,7 @@ It was run with the _-stagger_ option for regular keyboards and is otherwise unm
 Stats depend on a text corpus, which may differ so these "scores" may not be exactly comparable to scores from other genkey-runs that you may find on the internet. 
 I have added two well-known layouts' scoring for reference. One is the well-known Colemak-DH layout and one is the high-performance [Semimak-JQ](https://semilin.github.io) layout (by the creator of genkey as it happens).
 Lower scores are better. It shows that the genkey algorithm considers the Millennium-family to be very close to Semimak JQ and considerably "better" than Colemak DH for what it's worth. Personal preferences may be different and analyzers provide guidance rather than judgment.
+I have also added stats for column-staggered boards which should work even better with the non-angled versions of Millennium/Y; since i do not own such a board myself I cannot personally judge if the analyzer is correct on that topic.
 
 Millennium:
 ```
