@@ -1,7 +1,7 @@
 # Millennium / Millennium_Y
 
 Millennium and Millennium_Y are custom keyboard layouts that are meant to improve touch typing comfort.
-I took care to avoid the following:
+Being mostly based on prior work from the AKL community, Millennium tries to avoid the following:
 * Commonly used letter combinations under the same finger
 * Reusing the same finger in short succession
 * Awkward finger stretches in general.
