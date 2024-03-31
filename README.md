@@ -9,6 +9,19 @@ Being mostly based on prior work from the AKL community, Millennium tries to avo
 
 Workmod on the other hand is an adaptation from [Workman](https://workmanlayout.org/) that better suits my preferences (and scores better on analyzers as well).
 
+For reference, _personally_ I feel obligated to note the MTGAP-G variant here (not invented by me) because it deserves recognition and I make no claims of my set of layouts being "better" than that.
+MTGAP-G looks like this (use angled):
+
+```
+w c l d j k u o p y
+r s t h m , a e n i
+x v g f b : . / z q
+```
+
+As you can see it moves punctuation, which may be too much of a good thing. Millennium/Workmod don't.
+
+Back to Millennium/Workmod.
+
 It goes without saying that the base principle is to keep oft-used keys in easy to reach positions, where the most commonly used letters in English are on "home row".
 In addition to the above I've tried to optimize for comfortable movements, such as pressing neighboring keys in order such as with QWERTY's "ER".
 The hand-balance (share of strokes typed on left hand versus right hand) is about 46% left and 54% right for both Millennium-variants and 51%/49% L/R for Workmod. For comparison, Colemak-DH roughly has a 44-56 balance.
@@ -351,6 +364,42 @@ Worst Bigrams:
 Score: 31.48
 ```
 
+MTGAP-G (angled):
+
+```
+MTGAPG
+w c l d j  k u o p y
+r s t h m  , a e n i
+x v g f b  : . / z q
+Missing characters: [; ']
+Rolls (l): 18.17%
+        Inward: 13.35%
+        Outward: 4.82%
+Rolls (r): 24.77%
+        Inward: 13.71%
+        Outward: 11.06%
+Alternates: 39.43%
+Onehands: 2.20%
+Redirects: 5.05%
+Finger Speed (weighted): [1.04 1.35 2.21 4.62 2.35 1.62 0.40 0.95]
+Finger Speed (unweighted): [1.57 4.87 10.62 25.42 12.95 7.76 1.45 1.43]
+Highest Speed (weighted): 4.62 (LI)
+Highest Speed (unweighted): 25.42 (LI)
+Index Usage: 16.6% 13.8%
+SFBs: 1.332%
+DSFBs: 6.441%
+LSBs: 0.80%
+Top SFBs:
+        gh 0.239%       ak 0.153%       sc 0.138%       au 0.127%
+        ua 0.111%       lt 0.110%       tl 0.095%       mb 0.079%
+
+Worst Bigrams:
+        oe 23.001       lv 16.751       wr 16.107       cs 14.486
+        hg 14.076       ka 12.647       lt 12.397       dg 11.644
+
+Score: 45.30
+```
+
 ## Stats for column-staggered keyboards.
 
 Millennium:
@@ -361,14 +410,14 @@ m l d g w  q f o u ,
 h r t s y  p n a e i /
 z x k c v  j b ' ; .
 Rolls (l): 18.56%
-	Inward: ~6.29%
-	Outward: ~12.27%
+        Inward: 6.29%
+        Outward: 12.27%
 Rolls (r): 28.11%
-	Inward: ~17.15%
-	Outward: ~10.96%
-Alternates: ~36.91%
-Onehands: ~1.98%
-Redirects: ~5.74%
+        Inward: 17.15%
+        Outward: 10.96%
+Alternates: 36.91%
+Onehands: 1.98%
+Redirects: 5.74%
 Finger Speed (weighted): [0.68 0.89 0.69 3.46 1.04 1.18 1.20 1.17]
 Finger Speed (unweighted): [1.02 3.20 3.29 19.01 5.73 5.65 4.33 1.76]
 Highest Speed (weighted): 3.46 (LI)
@@ -378,12 +427,12 @@ SFBs: 0.854%
 DSFBs: 5.864%
 LSBs: 1.24%
 Top SFBs:
-	sc 0.138%	ue 0.129%	ys 0.105%	rl 0.077%
-	oa 0.075%	gs 0.061%	nf 0.060%	sy 0.049%
+        sc 0.138%       ue 0.129%       ys 0.105%       rl 0.077%
+        oa 0.075%       gs 0.061%       nf 0.060%       sy 0.049%
 
 Worst Bigrams:
-	ue 17.029	oa 11.602	lr 10.328	sc 9.482
-	ws 8.918	mh 8.183	i. 7.824	,i 7.077
+        ue 17.029       oa 11.602       lr 10.328       sc 9.482
+        ws 8.918        mh 8.183        i. 7.824        ,i 7.077
 
 Score: 33.23
 ```
