@@ -253,31 +253,31 @@ q w f p b  j l u y ;
 a r s t g  m n e i o '
 z x c d v  k h , . /
 Rolls (l): 18.04%
-	Inward: ~11.48%
-	Outward: ~6.57%
+        Inward: 11.48%
+        Outward: 6.57%
 Rolls (r): 28.64%
-	Inward: ~13.75%
-	Outward: ~14.89%
-Alternates: ~30.81%
-Onehands: ~2.51%
-Redirects: ~10.74%
-Finger Speed (weighted): [0.42 0.53 1.85 4.00 4.90 1.79 1.44 0.60]
-Finger Speed (unweighted): [0.63 1.91 8.87 21.99 26.95 8.59 5.18 0.90]
-Highest Speed (weighted): 4.90 (RI)
-Highest Speed (unweighted): 26.95 (RI)
+        Inward: 13.75%
+        Outward: 14.89%
+Alternates: 30.81%
+Onehands: 2.51%
+Redirects: 10.74%
+Finger Speed (weighted): [0.34 0.48 1.48 3.81 4.84 1.52 1.21 0.59]
+Finger Speed (unweighted): [0.50 1.73 7.09 20.94 26.60 7.29 4.34 0.89]
+Highest Speed (weighted): 4.84 (RI)
+Highest Speed (unweighted): 26.60 (RI)
 Index Usage: 19.2% 18.9%
 SFBs: 1.092%
 DSFBs: 7.903%
-LSBs: 1.12%
+LSBs: 1.66%
 Top SFBs:
-	e, 0.183%	sc 0.138%	ue 0.129%	y. 0.087%
-	nk 0.079%	pt 0.078%	nl 0.068%	kn 0.055%
+        e, 0.183%       sc 0.138%       ue 0.129%       y. 0.087%
+        nk 0.079%       pt 0.078%       nl 0.068%       kn 0.055%
 
 Worst Bigrams:
-	lh 15.644	sc 14.593	ue 13.868	y. 12.940
-	fc 11.532	e, 9.753	mn 9.623	mh 9.123
+        lh 13.082       ue 12.772       lk 11.823       sc 10.865
+        y. 10.820       fc 9.643        mn 9.623        bt 9.544
 
-Score: 47.81
+Score: 44.53
 ```
 
 Workman (the original, non angled):
@@ -288,14 +288,14 @@ q d r w b  j f u p ;
 a s h t g  y n e o i '
 z x m c v  k l , . /
 Rolls (l): 21.25%
-        Inward: ~9.28%
-        Outward: ~11.97%
+        Inward: 9.28%
+        Outward: 11.97%
 Rolls (r): 22.98%
-        Inward: ~14.62%
-        Outward: ~8.35%
-Alternates: ~30.00%
-Onehands: ~3.14%
-Redirects: ~10.53%
+        Inward: 14.62%
+        Outward: 8.35%
+Alternates: 30.00%
+Onehands: 3.14%
+Redirects: 10.53%
 Finger Speed (weighted): [0.34 0.86 3.28 3.78 4.89 1.52 2.01 0.73]
 Finger Speed (unweighted): [0.50 3.09 15.73 20.80 26.89 7.29 7.25 1.09]
 Highest Speed (weighted): 4.89 (RI)
@@ -323,31 +323,31 @@ f l h v z  ' w u o y
 s r n t k  c d e a i ;
 x j b m q  p g , . /
 Rolls (l): 17.37%
-	Inward: ~7.81%
-	Outward: ~9.56%
+        Inward: 7.81%
+        Outward: 9.56%
 Rolls (r): 25.32%
-	Inward: ~12.56%
-	Outward: ~12.76%
-Alternates: ~40.59%
-Onehands: ~1.88%
-Redirects: ~6.57%
-Finger Speed (weighted): [0.84 0.83 0.87 1.18 1.97 1.79 2.49 1.16]
-Finger Speed (unweighted): [1.26 2.99 4.18 6.51 10.85 8.59 8.96 1.74]
-Highest Speed (weighted): 2.49 (RR)
-Highest Speed (unweighted): 10.85 (RI)
+        Inward: 12.56%
+        Outward: 12.76%
+Alternates: 40.59%
+Onehands: 1.88%
+Redirects: 6.57%
+Finger Speed (weighted): [0.75 0.76 0.75 1.06 1.80 1.52 2.15 1.04]
+Finger Speed (unweighted): [1.12 2.72 3.61 5.82 9.92 7.29 7.73 1.56]
+Highest Speed (weighted): 2.15 (RR)
+Highest Speed (unweighted): 9.92 (RI)
 Index Usage: 13.4% 13.1%
 SFBs: 0.693%
 DSFBs: 5.795%
-LSBs: 1.01%
+LSBs: 1.92%
 Top SFBs:
-	e, 0.183%	ue 0.129%	rl 0.077%	oa 0.075%
-	yi 0.037%	tm 0.028%	dg 0.026%	a. 0.024%
+        e, 0.183%       ue 0.129%       rl 0.077%       oa 0.075%
+        yi 0.037%       tm 0.028%       dg 0.026%       a. 0.024%
 
 Worst Bigrams:
-	o. 17.497	oa 16.796	ue 13.868	yi 12.362
-	lr 11.214	e, 9.753	tm 8.919	fs 8.568
+        oa 15.469       o. 14.631       ue 12.772       yi 11.385
+        lr 10.328       fs 7.891        e, 7.262        hn 6.649
 
-Score: 34.50
+Score: 31.48
 ```
 
 ## Stats for column-staggered keyboards.
