@@ -1,19 +1,22 @@
-# Millennium / Millennium_Y
+# Millennium / Millennium_Y / Workmod
 
-Millennium and Millennium_Y are custom keyboard layouts that are meant to improve touch typing comfort.
+Millennium, Millennium_Y and Workmod are custom keyboard layouts that are meant to improve touch typing comfort.
 Being mostly based on prior work from the AKL community, Millennium tries to avoid the following:
-* Commonly used letter combinations under the same finger
-* Reusing the same finger in short succession
-* Awkward finger stretches in general.
+
+- Commonly used letter combinations under the same finger
+- Reusing the same finger in short succession
+- Awkward finger stretches in general.
+
+Workmod on the other hand is an adaptation from [Workman](https://workmanlayout.org/) that better suits my preferences (and scores better on analyzers as well).
 
 It goes without saying that the base principle is to keep oft-used keys in easy to reach positions, where the most commonly used letters in English are on "home row".
 In addition to the above I've tried to optimize for comfortable movements, such as pressing neighboring keys in order such as with QWERTY's "ER".
-The hand-balance (share of strokes typed on left hand versus right hand) is about 46% left and 54% right for both Millennium-variants. For comparison, Colemak-DH roughly has a 44-56 balance.
+The hand-balance (share of strokes typed on left hand versus right hand) is about 46% left and 54% right for both Millennium-variants and 51%/49% L/R for Workmod. For comparison, Colemak-DH roughly has a 44-56 balance.
 
 Millennium and its Millennium_Y variant started from combining a few traits from layouts created by the AKL community.
 Inspiration came mainly from the excellent [Maya](https://docs.google.com/document/u/0/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/mobilebasic#h.15eb7sf9z9p9) and [Sturdy](https://docs.google.com/document/u/0/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/mobilebasic#h.gmmedttxvbs3) layouts. Kudos to Adi.Lela and Oxey.
 
-Where they mostly differ from the two inspirations is in placing H and M on left pinky, thereby avoiding an NH column or an N-pinky, neither of which I liked very much. 
+Where they mostly differ from the two inspirations is in placing H and M on left pinky, thereby avoiding an NH column or an N-pinky, neither of which I liked very much.
 As both H and M are relatively low-frequency letters in English it feels to me that this is easily handled and "mother" is still comparatively easy to type despite having an M and an H.
 
 To my hands it feels uncomfortable to have movements like (in QWERTY-speak): "AW", "AE", "RD", "AD".
@@ -24,18 +27,18 @@ Some letter-combinations that I think work particularly well on Millennium are w
 Opinions may differ on this but it works for me!
 
 ## Word of warning
-**Keyboard layouts are quite personal and Millennium makes no ergonomic claims.**
-If you are unsure whether trying an alternative keyboard layout such as this might give you Carpal tunnel syndrome or other negative side-effects, just don't do it. Use at your own risk. 
+
+**Keyboard layouts are quite personal and Millennium or Workmod make no ergonomic claims.**
+If you are unsure whether trying an alternative keyboard layout such as this might give you Carpal tunnel syndrome or other negative side-effects, just don't do it. Use at your own risk.
 What works for me may be bad for you and you should certainly expect that any QWERTY-muscle memory that you had will be negatively affected.
 
-The layout proper:
+The layouts proper:
 
 Using angle mod (you type QWERTY C with your left index finger):
 ![Millennium Angle](https://github.com/ijzerbroot/millennium/blob/main/millennium-angle.png)
 
 Without angle mod (you type QWERTY C with your left middle finger):
 ![Millennium](https://github.com/ijzerbroot/millennium/blob/main/millennium.png)
-
 
 There is an alternative swap possible that will provide a more even load on the index fingers and makes the "my" and "sy" bigrams better.
 It may be preferable to some.
@@ -46,20 +49,28 @@ Millennium_y (angle mod):
 Millennium_y (without angle mod):
 ![Millennium Y](https://github.com/ijzerbroot/millennium/blob/main/millennium_y.png)
 
+Workmod (angle):
+![Workmod](https://github.com/ijzerbroot/millennium/blob/main/workmod.png)
 
 ## Stats
-Stats from [genkey](https://semilin.github.io/pages/genkey.html) show most movement is on the left index finger (which is fine by me and not extraordinarily high but bear it in mind). 
+
+For Millennium, stats from [genkey](https://semilin.github.io/pages/genkey.html) show most movement is on the left index finger (which is fine by me and not extraordinarily high but bear it in mind).
 It was run with the _-stagger_ option for regular keyboards and is otherwise unmodified/unconfigured.
-Stats depend on a text corpus, which may differ so these "scores" may not be exactly comparable to scores from other genkey-runs that you may find on the internet. 
+Stats depend on a text corpus, which may differ so these "scores" may not be exactly comparable to scores from other genkey-runs that you may find on the internet.
 I have added two well-known layouts' stats for reference. One is the well-known Colemak-DH layout and one is the high-performance [Semimak-JQ](https://semilin.github.io) layout (by the creator of genkey as it happens).
-Lower scores are "better" in the sense that the scoring-algorithm believes there are fewer undesirable traits such as single-finger repetition, high movement, usage-imbalance between fingers, etc. 
+Lower scores are "better" in the sense that the scoring-algorithm believes there are fewer undesirable traits such as single-finger repetition, high movement, usage-imbalance between fingers, etc.
 It shows that the genkey algorithm considers the Millennium-family to be fairly close to Semimak JQ and notably "better" than Colemak DH for what it's worth. Personal preferences vary considerably and analyzers provide guidance rather than judgment. As _genkey's_ creator puts it: "What matters is not how well the layout fits the metrics, it's how well the metrics fit you".
 I have also added stats for column-staggered boards which should work even better with the non-angled versions of Millennium/Y; since I do not own such a board myself I cannot personally judge if the analyzer is correct on that topic.
 
-Generally you may think of Millennium as trying to place highest ranged movement on the easiest-to-move index fingers and putting high-frequency keys ("T" and "A") directly under the strong middle fingers. As a consequence of putting all the vowels on the right hand, this hand sees relatively high usage (but no bottom-row letter movement) for the middle, ring and pinky.  
-The left hand has less work to do and also has very little bottom-row usage for any finger except the index. 
+For Workmod, the genkey score is ever so slightly "worse" than Colemak DH. Probably because Workmod has a higher movement on the left index finger as well as slightly elevated SFB's. This is a trade-off for more evenness in both hand balance and "rolls" on left and right hand on Workmod.
+In addition, Workmod has slightly more hand-alternation than Colemak, which I like.
+
+Generally you may think of Millennium as trying to place highest ranged movement on the easiest-to-move index fingers and putting high-frequency keys ("T" and "A") directly under the strong middle fingers. As a consequence of putting all the vowels on the right hand, this hand sees relatively high usage (but no bottom-row letter movement) for the middle, ring and pinky.
+The left hand has less work to do and also has very little bottom-row usage for any finger except the index.
+Workmod is a more comfortable (to me) variant of Workman.
 
 Millennium:
+
 ```
 Millennium
 m l d g w  q f o u ,
@@ -94,6 +105,7 @@ Score: 36.62
 ```
 
 Millennium Angle:
+
 ```
 Millennium_angle
 m l d g v  q f o u ,
@@ -128,6 +140,7 @@ Score: 35.75
 ```
 
 Millennium Y:
+
 ```
 Millennium_Y
 m l d g v  q f o u ,
@@ -162,6 +175,7 @@ Score: 36.72
 ```
 
 Millennium Y angle:
+
 ```
 Millennium_Y_angle
 m l d g v  q f o u ,
@@ -195,7 +209,43 @@ Worst Bigrams:
 Score: 35.43
 ```
 
+Workmod:
+
+```
+Workmod
+q d r w b  j f u p ;
+a s n t m  y h e i o '
+z x g c v  k l , . /
+Rolls (l): 22.39%
+        Inward: ~14.94%
+        Outward: ~7.45%
+Rolls (r): 22.07%
+        Inward: ~6.71%
+        Outward: ~15.36%
+Alternates: ~32.26%
+Onehands: ~2.00%
+Redirects: ~10.43%
+Finger Speed (weighted): [0.11 0.91 1.15 6.77 3.57 1.52 1.33 0.59]
+Finger Speed (unweighted): [0.16 3.27 5.53 37.24 19.65 7.29 4.80 0.89]
+Highest Speed (weighted): 6.77 (LI)
+Highest Speed (unweighted): 37.24 (LI)
+Index Usage: 20.8% 13.7%
+SFBs: 1.812%
+DSFBs: 7.432%
+LSBs: 1.20%
+Top SFBs:
+        ly 0.413%       ct 0.370%       e, 0.183%       rn 0.137%
+        pi 0.133%       ds 0.132%       ue 0.129%       ip 0.099%
+
+Worst Bigrams:
+        yl 25.011       fl 16.660       rn 14.327       pi 13.155
+        tc 12.906       ue 12.772       tg 11.795       ds 11.765
+
+Score: 51.21
+```
+
 Colemak DH:
+
 ```
 Colemak DH
 q w f p b  j l u y ;
@@ -230,6 +280,7 @@ Score: 47.81
 ```
 
 Semimak JQ:
+
 ```
 Semimak JQ
 f l h v z  ' w u o y
@@ -266,6 +317,7 @@ Score: 34.50
 ## Stats for column-staggered keyboards.
 
 Millennium:
+
 ```
 Millennium
 m l d g w  q f o u ,
@@ -300,6 +352,7 @@ Score: 33.23
 ```
 
 Millennium Y:
+
 ```
 Millennium_Y
 m l d g v  q f o u ,
