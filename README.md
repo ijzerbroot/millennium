@@ -62,7 +62,7 @@ Lower scores are "better" in the sense that the scoring-algorithm believes there
 It shows that the genkey algorithm considers the Millennium-family to be fairly close to Semimak JQ and notably "better" than Colemak DH for what it's worth. Personal preferences vary considerably and analyzers provide guidance rather than judgment. As _genkey's_ creator puts it: "What matters is not how well the layout fits the metrics, it's how well the metrics fit you".
 I have also added stats for column-staggered boards which should work even better with the non-angled versions of Millennium/Y; since I do not own such a board myself I cannot personally judge if the analyzer is correct on that topic.
 
-For Workmod, the genkey score is ever so slightly "worse" than Colemak DH. Probably because Workmod has a higher movement on the left index finger as well as slightly elevated SFB's. This is a trade-off for more evenness in both hand balance and "rolls" on left and right hand on Workmod.
+For Workmod, the genkey score is ever so slightly "worse" than Colemak DH but better than Workman itself. Workmod has a higher movement on the left index finger (lower on the right index though!) than Colemak as well as slightly elevated SFB's. This is a trade-off for more evenness in both hand balance and "rolls" on left and right hand on Workmod.
 In addition, Workmod has slightly more hand-alternation than Colemak, which I like.
 
 Generally you may think of Millennium as trying to place highest ranged movement on the easiest-to-move index fingers and putting high-frequency keys ("T" and "A") directly under the strong middle fingers. As a consequence of putting all the vowels on the right hand, this hand sees relatively high usage (but no bottom-row letter movement) for the middle, ring and pinky.
@@ -242,6 +242,7 @@ Worst Bigrams:
         tc 12.906       ue 12.772       tg 11.795       ds 11.765
 
 Score: 51.21
+
 ```
 
 Colemak DH:
@@ -277,6 +278,41 @@ Worst Bigrams:
 	fc 11.532	e, 9.753	mn 9.623	mh 9.123
 
 Score: 47.81
+```
+
+Workman (the original, non angled):
+
+```
+Workman
+q d r w b  j f u p ;
+a s h t g  y n e o i '
+z x m c v  k l , . /
+Rolls (l): 21.25%
+        Inward: ~9.28%
+        Outward: ~11.97%
+Rolls (r): 22.98%
+        Inward: ~14.62%
+        Outward: ~8.35%
+Alternates: ~30.00%
+Onehands: ~3.14%
+Redirects: ~10.53%
+Finger Speed (weighted): [0.34 0.86 3.28 3.78 4.89 1.52 2.01 0.73]
+Finger Speed (unweighted): [0.50 3.09 15.73 20.80 26.89 7.29 7.25 1.09]
+Highest Speed (weighted): 4.89 (RI)
+Highest Speed (unweighted): 26.89 (RI)
+Index Usage: 18.4% 16.0%
+SFBs: 2.370%
+DSFBs: 7.500%
+LSBs: 1.40%
+Top SFBs:
+        ly 0.413%       ct 0.370%       po 0.296%       op 0.235%
+        e, 0.183%       rm 0.136%       ds 0.132%       ue 0.129%
+
+Worst Bigrams:
+        rm 39.302       yl 25.011       po 23.386       fl 16.660
+        tc 12.906       ue 12.772       ds 11.765       rh 9.652
+
+Score: 54.34
 ```
 
 Semimak JQ:
