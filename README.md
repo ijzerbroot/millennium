@@ -7,20 +7,7 @@ Being mostly based on prior work from the AKL community, Millennium tries to avo
 - Reusing the same finger in short succession
 - Awkward finger stretches in general.
 
-Workmod on the other hand is an adaptation from [Workman](https://workmanlayout.org/) that better suits my preferences (and scores better on analyzers as well).
-
-For reference, _personally_ I feel obligated to note the MTGAP-G variant here (not invented by me) because it deserves recognition and I make no claims of my set of layouts being "better" than that.
-MTGAP-G looks like this (use angled):
-
-```
-w c l d j k u o p y
-r s t h m , a e n i
-x v g f b : . / z q
-```
-
-As you can see it moves punctuation, which may be too much of a good thing. Millennium/Workmod don't.
-
-Back to Millennium/Workmod.
+Workmod on the other hand is an adaptation from [Workman](https://workmanlayout.org/) that better suits my preferences (and scores better on genkey as well).
 
 It goes without saying that the base principle is to keep oft-used keys in easy to reach positions, where the most commonly used letters in English are on "home row".
 In addition to the above I've tried to optimize for comfortable movements, such as pressing neighboring keys in order such as with QWERTY's "ER".
@@ -362,42 +349,6 @@ Worst Bigrams:
         lr 10.328       fs 7.891        e, 7.262        hn 6.649
 
 Score: 31.48
-```
-
-MTGAP-G (angled):
-
-```
-MTGAPG
-w c l d j  k u o p y
-r s t h m  , a e n i
-x v g f b  : . / z q
-Missing characters: [; ']
-Rolls (l): 18.17%
-        Inward: 13.35%
-        Outward: 4.82%
-Rolls (r): 24.77%
-        Inward: 13.71%
-        Outward: 11.06%
-Alternates: 39.43%
-Onehands: 2.20%
-Redirects: 5.05%
-Finger Speed (weighted): [1.04 1.35 2.21 4.62 2.35 1.62 0.40 0.95]
-Finger Speed (unweighted): [1.57 4.87 10.62 25.42 12.95 7.76 1.45 1.43]
-Highest Speed (weighted): 4.62 (LI)
-Highest Speed (unweighted): 25.42 (LI)
-Index Usage: 16.6% 13.8%
-SFBs: 1.332%
-DSFBs: 6.441%
-LSBs: 0.80%
-Top SFBs:
-        gh 0.239%       ak 0.153%       sc 0.138%       au 0.127%
-        ua 0.111%       lt 0.110%       tl 0.095%       mb 0.079%
-
-Worst Bigrams:
-        oe 23.001       lv 16.751       wr 16.107       cs 14.486
-        hg 14.076       ka 12.647       lt 12.397       dg 11.644
-
-Score: 45.30
 ```
 
 ## Stats for column-staggered keyboards.
