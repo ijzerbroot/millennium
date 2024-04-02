@@ -1,6 +1,6 @@
-# Millennium / Millennium_Y / Workmod / Quantumdrone
+# Millennium / Millennium_Y / Workmod 
 
-Millennium, Millennium_Y, Quantumdrone and Workmod are custom keyboard layouts that are meant to improve touch typing comfort.
+Millennium, Millennium_Y and Workmod are custom keyboard layouts that are meant to improve touch typing comfort.
 Being mostly based on prior work from the AKL community, Millennium tries to avoid the following:
 
 - Commonly used letter combinations under the same finger
@@ -8,8 +8,6 @@ Being mostly based on prior work from the AKL community, Millennium tries to avo
 - Awkward finger stretches in general.
 
 `Workmod` on the other hand is an adaptation from [Workman](https://workmanlayout.org/) that better suits my preferences (and scores better on genkey as well).
-
-`Quantumdrone` is what rolled out of [Oxeylyzer](https://github.com/O-X-E-Y/oxeylyzer) when I asked it to penalize the pinkies while keeping QWERTY's ZXCV, Q, E, G, S and right-bottom punctuation positions.
 
 It goes without saying that the base principle is to keep oft-used keys in easy to reach positions, where the most commonly used letters in English are on "home row".
 In addition to the above I've tried to optimize for comfortable movements, such as pressing neighboring keys in order such as with QWERTY's "ER".
@@ -54,8 +52,6 @@ Millennium_y (without angle mod):
 Workmod (angle):
 ![Workmod](https://github.com/ijzerbroot/millennium/blob/main/workmod.png)
 
-Quantumdrone (angle)
-![Quantumdrone](https://github.com/ijzerbroot/millennium/blob/main/quantumdrone.png)
 
 ## Stats
 
@@ -69,8 +65,6 @@ I have also added stats for column-staggered boards which should work even bette
 
 For Workmod, the genkey score is ever so slightly "worse" than Colemak DH but better than Workman itself. Workmod has a higher movement on the left index finger (lower on the right index though!) than Colemak as well as slightly elevated SFB's. This is a trade-off for more evenness in both hand balance and "rolls" on left and right hand on Workmod.
 In addition, Workmod has slightly more hand-alternation than Colemak, which I like.
-
-Quantumdrone does not score great on genkey with default settings but this is understandable because of the requirements I gave. If I tune it to my preferences (penalize pinkies, don't mind a slightly higher SFB, emphasize index fingers) it scores a _very_ good 30.95. With default genkey settings it's 56. It is definitely an acquired taste and not a _good_ layout. Nevertheless even the very high left-index movement is still less than half of QWERTY's so it's not _that_ terrible.
 
 Generally you may think of Millennium as trying to place highest ranged movement on the easiest-to-move index fingers and putting high-frequency keys ("T" and "A") directly under the strong middle fingers. As a consequence of putting all the vowels on the right hand, this hand sees relatively high usage (but no bottom-row letter movement) for the middle, ring and pinky.
 The left hand has less work to do and also has very little bottom-row usage for any finger except the index.
@@ -250,41 +244,6 @@ Worst Bigrams:
         tc 12.906       ue 12.772       tg 11.795       ds 11.765
 
 Score: 51.21
-```
-
-Quantumdrone:
-
-```
-Quantumdrone
-q d e m w  ; f o u j
-l s y t g  b n a i r '
-z x c v k  p h , . /
-Rolls (l): 18.65%
-	Inward: 8.43%
-	Outward: 10.22%
-Rolls (r): 29.44%
-	Inward: 14.55%
-	Outward: 14.89%
-Alternates: 27.10%
-Onehands: 5.55%
-Redirects: 8.69%
-Finger Speed (weighted): [0.09 0.91 2.45 8.56 2.01 1.57 1.31 0.62]
-Finger Speed (unweighted): [0.14 3.27 11.76 47.10 11.06 7.54 4.72 0.93]
-Highest Speed (weighted): 8.56 (LI)
-Highest Speed (unweighted): 47.10 (LI)
-Index Usage: 20.1% 17.2%
-SFBs: 1.563%
-DSFBs: 6.967%
-LSBs: 2.65%
-Top SFBs:
-	ct 0.370%	ck 0.195%	ex 0.188%	ey 0.163%
-	ds 0.132%	ye 0.123%	ui 0.107%	tw 0.075%
-
-Worst Bigrams:
-	tc 30.619	ex 27.987	mc 21.755	ck 21.204
-	wt 12.558	ds 11.765	oa 11.602	ui 11.503
-
-Score: 56.13
 ```
 
 Colemak DH:
