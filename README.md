@@ -214,8 +214,8 @@ Rest:
 
 ```
 Rest
-q y w m g  ; b o u j
-r e s t d  f n a i l '
+q y w m g  ; f o u j
+r e s t d  b n a i l '
 z x c v k  p h , . /
 Rolls (l): 20.61%
 	Inward: 9.88%
@@ -226,14 +226,14 @@ Rolls (r): 27.15%
 Alternates: 25.97%
 Onehands: 5.47%
 Redirects: 10.57%
-Finger Speed (weighted): [0.11 1.15 0.35 8.69 2.07 1.82 1.52 0.14]
-Finger Speed (unweighted): [0.17 4.14 1.69 47.80 11.41 8.73 5.46 0.21]
+Finger Speed (weighted): [0.11 1.15 0.35 8.69 2.02 1.82 1.52 0.14]
+Finger Speed (unweighted): [0.17 4.14 1.69 47.80 11.13 8.73 5.46 0.21]
 Highest Speed (weighted): 8.69 (LI)
 Highest Speed (unweighted): 47.80 (LI)
 Index Usage: 22.0% 17.2%
 SFBs: 1.344%
 DSFBs: 7.339%
-LSBs: 0.44%
+LSBs: 0.58%
 Top SFBs:
 	ct 0.370%	ck 0.195%	ey 0.163%	ye 0.123%
 	ui 0.107%	oa 0.075%	ph 0.070%	nf 0.060%
@@ -242,7 +242,7 @@ Worst Bigrams:
 	ck 21.204	tc 17.334	mc 16.487	ye 14.350
 	dc 14.065	oa 12.597	ui 12.490	o, 12.317
 
-Score: 49.45
+Score: 49.44
 ```
 
 Colemak:
