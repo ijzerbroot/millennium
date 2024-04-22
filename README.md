@@ -358,31 +358,31 @@ f l h v z  ' w u o y
 s r n t k  c d e a i ;
 x j b m q  p g , . /
 Rolls (l): 17.37%
-        Inward: 7.81%
-        Outward: 9.56%
+	Inward: 7.81%
+	Outward: 9.56%
 Rolls (r): 25.32%
-        Inward: 12.56%
-        Outward: 12.76%
+	Inward: 12.56%
+	Outward: 12.76%
 Alternates: 40.59%
 Onehands: 1.88%
 Redirects: 6.57%
-Finger Speed (weighted): [0.75 0.76 0.75 1.06 1.80 1.52 2.15 1.04]
-Finger Speed (unweighted): [1.12 2.72 3.61 5.82 9.92 7.29 7.73 1.56]
-Highest Speed (weighted): 2.15 (RR)
-Highest Speed (unweighted): 9.92 (RI)
+Finger Speed (weighted): [0.84 0.83 0.87 1.18 1.97 1.79 2.49 1.16]
+Finger Speed (unweighted): [1.26 2.99 4.18 6.51 10.85 8.59 8.96 1.74]
+Highest Speed (weighted): 2.49 (RR)
+Highest Speed (unweighted): 10.85 (RI)
 Index Usage: 13.4% 13.1%
 SFBs: 0.693%
 DSFBs: 5.795%
-LSBs: 1.92%
+LSBs: 1.01%
 Top SFBs:
-        e, 0.183%       ue 0.129%       rl 0.077%       oa 0.075%
-        yi 0.037%       tm 0.028%       dg 0.026%       a. 0.024%
+	e, 0.183%	ue 0.129%	rl 0.077%	oa 0.075%
+	yi 0.037%	tm 0.028%	dg 0.026%	a. 0.024%
 
 Worst Bigrams:
-        oa 15.469       o. 14.631       ue 12.772       yi 11.385
-        lr 10.328       fs 7.891        e, 7.262        hn 6.649
+	o. 17.497	oa 16.796	ue 13.868	yi 12.362
+	lr 11.214	e, 9.753	tm 8.919	fs 8.568
 
-Score: 31.48
+Score: 34.50
 ```
 
 ## Stats for column-staggered keyboards.
