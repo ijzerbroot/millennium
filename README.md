@@ -50,8 +50,8 @@ Millennium_y (angle mod):
 Millennium_y (without angle mod):
 ![Millennium Y](https://github.com/ijzerbroot/millennium/blob/main/millennium_y.png)
 
-Rest (angle):
-![Workmod](https://github.com/ijzerbroot/millennium/blob/main/rest.png)
+Rest:
+![Rest](https://github.com/ijzerbroot/millennium/blob/main/rest.png)
 
 
 ## Stats
@@ -64,7 +64,8 @@ Lower scores are "better" in the sense that the scoring-algorithm believes there
 It shows that the genkey algorithm considers the Millennium-family to be fairly close to Semimak JQ and notably "better" than Colemak DH for what it's worth. Personal preferences vary considerably and analyzers provide guidance rather than judgment. As _genkey's_ creator puts it: "What matters is not how well the layout fits the metrics, it's how well the metrics fit you".
 I have also added stats for column-staggered boards which should work even better with the non-angled versions of Millennium/Y; since I do not own such a board myself I cannot personally judge if the analyzer is correct on that topic.
 
-For Rest, the genkey score is a bit better than Colemak and a bit worse than Colemak DH. Rest has a higher usage of the left ring finger but keeps load on pinkies lower than the Colemak's while having slightly less SFB as well. Rest has relatively high left-index finger movement but I don't personally mind that; it's still less than half that of QWERTY :)
+For Rest, the genkey score is better than both Colemak and Colemak DH. Rest keeps load on pinkies lower than the Colemak's while having less SFB as well. Rest has relatively high left-index finger movement but I don't personally mind that; it's still a fraction of QWERTY :)
+Using "angle" would defeat the purpose of keeping QWERTY's ZXCV so whether that is worth doing is a matter of taste. It may still be acceptable to "angle" the base layout at the cost of high left-index movement and a few extra SFB-points.
 
 Generally you may think of Millennium as trying to place highest ranged movement on the easiest-to-move index fingers and putting high-frequency keys ("T" and "A") directly under the strong middle fingers. As a consequence of putting all the vowels on the right hand, this hand sees relatively high usage (but no bottom-row letter movement) for the middle, ring and pinky.
 The left hand has less work to do and also has very little bottom-row usage for any finger except the index.
@@ -210,39 +211,73 @@ Worst Bigrams:
 Score: 35.43
 ```
 
-Rest:
+Rest (non-angle):
 
 ```
 Rest
 q y w m g  ; f o u j
 r e s t d  b n a i l '
 z x c v k  p h , . /
-Rolls (l): 20.61%
-	Inward: 9.88%
-	Outward: 10.73%
+Rolls (l): 21.28%
+	Inward: 10.47%
+	Outward: 10.81%
 Rolls (r): 27.15%
 	Inward: 13.24%
 	Outward: 13.91%
 Alternates: 25.97%
-Onehands: 5.47%
-Redirects: 10.57%
-Finger Speed (weighted): [0.11 1.15 0.35 8.69 2.02 1.82 1.52 0.14]
-Finger Speed (unweighted): [0.17 4.14 1.69 47.80 11.13 8.73 5.46 0.21]
-Highest Speed (weighted): 8.69 (LI)
-Highest Speed (unweighted): 47.80 (LI)
-Index Usage: 22.0% 17.2%
-SFBs: 1.344%
-DSFBs: 7.339%
-LSBs: 0.58%
+Onehands: 5.63%
+Redirects: 10.65%
+Finger Speed (weighted): [0.21 1.59 1.43 3.92 2.02 1.82 1.52 0.14]
+Finger Speed (unweighted): [0.32 5.71 6.85 21.57 11.13 8.73 5.46 0.21]
+Highest Speed (weighted): 3.92 (LI)
+Highest Speed (unweighted): 21.57 (LI)
+Index Usage: 18.9% 17.2%
+SFBs: 1.087%
+DSFBs: 6.752%
+LSBs: 0.74%
 Top SFBs:
-	ct 0.370%	ck 0.195%	ey 0.163%	ye 0.123%
+	ex 0.188%	ey 0.163%	sc 0.138%	ye 0.123%
 	ui 0.107%	oa 0.075%	ph 0.070%	nf 0.060%
 
 Worst Bigrams:
-	ck 21.204	tc 17.334	mc 16.487	ye 14.350
-	dc 14.065	oa 12.597	ui 12.490	o, 12.317
+	sc 14.593	ye 14.350	oa 12.597	ui 12.490
+	o, 12.317	ex 9.432	gt 8.809	nh 7.794
 
-Score: 49.44
+Score: 39.19
+```
+
+Rest (angle):
+```
+Rest
+q y w m g  ; f o u j
+r e s t d  b n a i l '
+x c v k z  p h , . /
+Rolls (l): 21.28%
+	Inward: 10.40%
+	Outward: 10.87%
+Rolls (r): 27.15%
+	Inward: 13.24%
+	Outward: 13.91%
+Alternates: 25.97%
+Onehands: 5.61%
+Redirects: 10.67%
+Finger Speed (weighted): [0.11 1.58 1.40 4.08 2.02 1.82 1.52 0.14]
+Finger Speed (unweighted): [0.17 5.69 6.72 22.47 11.13 8.73 5.46 0.21]
+Highest Speed (weighted): 4.08 (LI)
+Highest Speed (unweighted): 22.47 (LI)
+Index Usage: 19.0% 17.2%
+SFBs: 1.091%
+DSFBs: 6.782%
+LSBs: 0.64%
+Top SFBs:
+	ex 0.188%	ey 0.163%	sc 0.138%	ye 0.123%
+	ui 0.107%	oa 0.075%	ph 0.070%	nf 0.060%
+
+Worst Bigrams:
+	sc 14.593	ye 14.350	oa 12.597	ui 12.490
+	o, 12.317	ex 9.432	gt 8.809	dv 8.049
+
+Score: 39.22
 ```
 
 Colemak:
