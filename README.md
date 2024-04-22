@@ -8,7 +8,7 @@ Being mostly based on prior work from the AKL community, Millennium tries to avo
 - Awkward finger stretches in general.
 
 `Rest` on the other hand is an adaptation of QWERTY's hand distribution (rhythm) that better suits my preferences (and scores better on genkey as well).
-The idea behind `Rest` is to keep some vague semblance to QWERTY while prioritizing my personal comfort. The only keys that change hands are `M` and `F` and arguably `B`/`K` if you would tend to use your left hand for the B-key. 
+The idea behind `Rest` is to keep some vague semblance to QWERTY while prioritizing my personal comfort. The only keys that change hands are `M` and `F` and arguably `B`/`K` if you would tend to use your left hand for the B-key.
 
 It goes without saying that the base principle for all these layouts is to keep oft-used keys in easy to reach positions, where the most commonly used letters in English are on "home row".
 In addition to the above I've tried to optimize for comfortable movements, such as pressing neighboring keys in order such as with QWERTY's "ER".
@@ -64,7 +64,7 @@ Lower scores are "better" in the sense that the scoring-algorithm believes there
 It shows that the genkey algorithm considers the Millennium-family to be fairly close to Semimak JQ and notably "better" than Colemak DH for what it's worth. Personal preferences vary considerably and analyzers provide guidance rather than judgment. As _genkey's_ creator puts it: "What matters is not how well the layout fits the metrics, it's how well the metrics fit you".
 I have also added stats for column-staggered boards which should work even better with the non-angled versions of Millennium/Y; since I do not own such a board myself I cannot personally judge if the analyzer is correct on that topic.
 
-For Rest, the genkey score is a bit better than Colemak and a bit worse than Colemak DH. Rest has a higher usage of the left ring finger but keeps load on pinkies lower than the Colemak's while having slightly less SFB as well.
+For Rest, the genkey score is a bit better than Colemak and a bit worse than Colemak DH. Rest has a higher usage of the left ring finger but keeps load on pinkies lower than the Colemak's while having slightly less SFB as well. Rest has relatively high left-index finger movement but I don't personally mind that; it's still less than half that of QWERTY :)
 
 Generally you may think of Millennium as trying to place highest ranged movement on the easiest-to-move index fingers and putting high-frequency keys ("T" and "A") directly under the strong middle fingers. As a consequence of putting all the vowels on the right hand, this hand sees relatively high usage (but no bottom-row letter movement) for the middle, ring and pinky.
 The left hand has less work to do and also has very little bottom-row usage for any finger except the index.
