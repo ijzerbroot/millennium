@@ -1,17 +1,18 @@
-# Millennium / Millennium_Y / Workmod 
+# Millennium / Millennium_Y / Rest
 
-Millennium, Millennium_Y and Workmod are custom keyboard layouts that are meant to improve touch typing comfort.
+Millennium, Millennium_Y and Rest are custom keyboard layouts that are meant to improve touch typing comfort.
 Being mostly based on prior work from the AKL community, Millennium tries to avoid the following:
 
 - Commonly used letter combinations under the same finger
 - Reusing the same finger in short succession
 - Awkward finger stretches in general.
 
-`Workmod` on the other hand is an adaptation from [Workman](https://workmanlayout.org/) that better suits my preferences (and scores better on genkey as well).
+`Rest` on the other hand is an adaptation of QWERTY's hand distribution (rhythm) that better suits my preferences (and scores better on genkey as well).
+The idea behind `Rest` is to keep some vague semblance to QWERTY while prioritizing my personal comfort. The only keys that change hands are `M` and `F` and arguably `B`/`K` if you would tend to use your left hand for the B-key. 
 
-It goes without saying that the base principle is to keep oft-used keys in easy to reach positions, where the most commonly used letters in English are on "home row".
+It goes without saying that the base principle for all these layouts is to keep oft-used keys in easy to reach positions, where the most commonly used letters in English are on "home row".
 In addition to the above I've tried to optimize for comfortable movements, such as pressing neighboring keys in order such as with QWERTY's "ER".
-The hand-balance (share of strokes typed on left hand versus right hand) is about 46% left and 54% right for both Millennium-variants and 51%/49% L/R for Workmod. For comparison, Colemak-DH roughly has a 44-56 balance.
+The hand-balance (share of strokes typed on left hand versus right hand) is about 46% left and 54% right for both Millennium-variants and 50/50 L/R for Rest. For comparison, Colemak-DH roughly has a 44-56 balance.
 
 Millennium and its Millennium_Y variant started from combining a few traits from layouts created by the AKL community.
 Inspiration came mainly from the excellent [Maya](https://docs.google.com/document/u/0/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/mobilebasic#h.15eb7sf9z9p9) and [Sturdy](https://docs.google.com/document/u/0/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/mobilebasic#h.gmmedttxvbs3) layouts. Kudos to Adi.Lela and Oxey.
@@ -49,8 +50,8 @@ Millennium_y (angle mod):
 Millennium_y (without angle mod):
 ![Millennium Y](https://github.com/ijzerbroot/millennium/blob/main/millennium_y.png)
 
-Workmod (angle):
-![Workmod](https://github.com/ijzerbroot/millennium/blob/main/workmod.png)
+Rest (angle):
+![Workmod](https://github.com/ijzerbroot/millennium/blob/main/rest.png)
 
 
 ## Stats
@@ -63,12 +64,10 @@ Lower scores are "better" in the sense that the scoring-algorithm believes there
 It shows that the genkey algorithm considers the Millennium-family to be fairly close to Semimak JQ and notably "better" than Colemak DH for what it's worth. Personal preferences vary considerably and analyzers provide guidance rather than judgment. As _genkey's_ creator puts it: "What matters is not how well the layout fits the metrics, it's how well the metrics fit you".
 I have also added stats for column-staggered boards which should work even better with the non-angled versions of Millennium/Y; since I do not own such a board myself I cannot personally judge if the analyzer is correct on that topic.
 
-For Workmod, the genkey score is ever so slightly "worse" than Colemak DH but better than Workman itself. Workmod has a higher movement on the left index finger (lower on the right index though!) than Colemak as well as slightly elevated SFB's. This is a trade-off for more evenness in both hand balance and "rolls" on left and right hand on Workmod.
-In addition, Workmod has slightly more hand-alternation than Colemak, which I like.
+For Rest, the genkey score is a bit better than Colemak and a bit worse than Colemak DH. Rest has a higher usage of the left ring finger but keeps load on pinkies lower than the Colemak's while having slightly less SFB as well.
 
 Generally you may think of Millennium as trying to place highest ranged movement on the easiest-to-move index fingers and putting high-frequency keys ("T" and "A") directly under the strong middle fingers. As a consequence of putting all the vowels on the right hand, this hand sees relatively high usage (but no bottom-row letter movement) for the middle, ring and pinky.
 The left hand has less work to do and also has very little bottom-row usage for any finger except the index.
-Workmod is a more comfortable (to me) variant of Workman.
 
 Millennium:
 
@@ -78,31 +77,31 @@ m l d g w  q f o u ,
 h r t s y  p n a e i /
 z x k c v  j b ' ; .
 Rolls (l): 18.56%
-        Inward: 6.29%
-        Outward: 12.27%
+	Inward: 6.29%
+	Outward: 12.27%
 Rolls (r): 28.11%
-        Inward: 17.15%
-        Outward: 10.96%
+	Inward: 17.15%
+	Outward: 10.96%
 Alternates: 36.91%
 Onehands: 1.98%
 Redirects: 5.74%
-Finger Speed (weighted): [0.68 0.89 0.69 3.46 1.04 1.18 1.20 1.17]
-Finger Speed (unweighted): [1.02 3.20 3.29 19.01 5.73 5.65 4.33 1.76]
-Highest Speed (weighted): 3.46 (LI)
-Highest Speed (unweighted): 19.01 (LI)
+Finger Speed (weighted): [0.76 0.99 0.79 3.90 1.14 1.33 1.32 1.40]
+Finger Speed (unweighted): [1.14 3.57 3.79 21.44 6.27 6.40 4.75 2.10]
+Highest Speed (weighted): 3.90 (LI)
+Highest Speed (unweighted): 21.44 (LI)
 Index Usage: 16.3% 12.8%
 SFBs: 0.854%
 DSFBs: 5.864%
-LSBs: 1.24%
+LSBs: 0.66%
 Top SFBs:
-        sc 0.138%       ue 0.129%       ys 0.105%       rl 0.077%
-        oa 0.075%       gs 0.061%       nf 0.060%       sy 0.049%
+	sc 0.138%	ue 0.129%	ys 0.105%	rl 0.077%
+	oa 0.075%	gs 0.061%	nf 0.060%	sy 0.049%
 
 Worst Bigrams:
-        ue 17.029       oa 11.602       lr 10.328       sc 9.482
-        ws 8.918        mh 8.183        i. 7.824        ,i 7.077
+	ue 18.490	sc 12.736	oa 12.597	lr 11.214
+	i. 10.508	mh 8.885	sv 8.833	,i 7.684
 
-Score: 33.23
+Score: 36.62
 
 ```
 
@@ -114,31 +113,31 @@ m l d g v  q f o u ,
 h r t s y  p n a e i /
 x k c w z  j b ' ; .
 Rolls (l): 18.55%
-        Inward: 6.29%
-        Outward: 12.26%
+	Inward: 6.29%
+	Outward: 12.26%
 Rolls (r): 28.11%
-        Inward: 17.15%
-        Outward: 10.96%
+	Inward: 17.15%
+	Outward: 10.96%
 Alternates: 36.91%
 Onehands: 1.98%
 Redirects: 5.74%
-Finger Speed (weighted): [0.53 1.00 0.89 4.94 1.04 1.18 1.20 1.17]
-Finger Speed (unweighted): [0.80 3.60 4.27 27.16 5.73 5.65 4.33 1.76]
-Highest Speed (weighted): 4.94 (LI)
-Highest Speed (unweighted): 27.16 (LI)
+Finger Speed (weighted): [0.58 0.96 0.76 3.84 1.14 1.33 1.32 1.40]
+Finger Speed (unweighted): [0.87 3.47 3.64 21.13 6.27 6.40 4.75 2.10]
+Highest Speed (weighted): 3.84 (LI)
+Highest Speed (unweighted): 21.13 (LI)
 Index Usage: 16.4% 12.8%
 SFBs: 0.858%
 DSFBs: 5.883%
-LSBs: 1.28%
+LSBs: 0.66%
 Top SFBs:
-        sc 0.138%       ue 0.129%       ys 0.105%       rl 0.077%
-        oa 0.075%       gs 0.061%       nf 0.060%       sy 0.049%
+	sc 0.138%	ue 0.129%	ys 0.105%	rl 0.077%
+	oa 0.075%	gs 0.061%	nf 0.060%	sy 0.049%
 
 Worst Bigrams:
-        sc 22.497       ue 17.029       oa 11.602       vc 10.950
-        lr 10.328       yc 9.150        mh 8.183        i. 7.824
+	ue 18.490	sc 12.736	oa 12.597	lr 11.214
+	i. 10.508	mh 8.885	,i 7.684	vc 7.066
 
-Score: 38.24
+Score: 35.75
 ```
 
 Millennium Y:
@@ -149,31 +148,31 @@ m l d g v  q f o u ,
 h r t s w  j n a e i /
 z x k c b  p y ' ; .
 Rolls (l): 18.83%
-        Inward: 5.65%
-        Outward: 13.17%
+	Inward: 5.65%
+	Outward: 13.17%
 Rolls (r): 26.76%
-        Inward: 17.03%
-        Outward: 9.73%
+	Inward: 17.03%
+	Outward: 9.73%
 Alternates: 38.08%
 Onehands: 2.30%
 Redirects: 5.34%
-Finger Speed (weighted): [0.68 0.89 0.69 3.30 1.53 1.18 1.20 1.17]
-Finger Speed (unweighted): [1.02 3.20 3.29 18.13 8.42 5.65 4.33 1.76]
-Highest Speed (weighted): 3.30 (LI)
-Highest Speed (unweighted): 18.13 (LI)
+Finger Speed (weighted): [0.76 0.99 0.79 3.87 1.46 1.33 1.32 1.40]
+Finger Speed (unweighted): [1.14 3.57 3.79 21.26 8.02 6.40 4.75 2.10]
+Highest Speed (weighted): 3.87 (LI)
+Highest Speed (unweighted): 21.26 (LI)
 Index Usage: 15.9% 13.2%
 SFBs: 0.840%
 DSFBs: 6.030%
-LSBs: 1.04%
+LSBs: 0.16%
 Top SFBs:
-        sc 0.138%       ue 0.129%       ny 0.119%       rl 0.077%
-        oa 0.075%       gs 0.061%       nf 0.060%       ws 0.042%
+	sc 0.138%	ue 0.129%	ny 0.119%	rl 0.077%
+	oa 0.075%	gs 0.061%	nf 0.060%	ws 0.042%
 
 Worst Bigrams:
-        ue 17.029       oa 11.602       lr 10.328       sc 9.482
-        mh 8.183        i. 7.824        np 7.805        sb 7.205
+	ue 18.490	sc 12.736	oa 12.597	sb 12.415
+	lr 11.214	i. 10.508	mh 8.885	,i 7.684
 
-Score: 33.76
+Score: 36.72
 ```
 
 Millennium Y angle:
@@ -184,66 +183,101 @@ m l d g v  q f o u ,
 h r t s b  j n a e i /
 x k c w z  p y ' ; .
 Rolls (l): 18.81%
-        Inward: 5.65%
-        Outward: 13.16%
+	Inward: 5.65%
+	Outward: 13.16%
 Rolls (r): 26.83%
-        Inward: 17.08%
-        Outward: 9.76%
+	Inward: 17.08%
+	Outward: 9.76%
 Alternates: 37.84%
 Onehands: 2.31%
 Redirects: 5.50%
-Finger Speed (weighted): [0.53 1.00 0.89 4.68 1.78 1.18 1.20 1.17]
-Finger Speed (unweighted): [0.80 3.60 4.27 25.71 9.78 5.65 4.33 1.76]
-Highest Speed (weighted): 4.68 (LI)
-Highest Speed (unweighted): 25.71 (LI)
+Finger Speed (weighted): [0.58 0.96 0.76 3.52 1.63 1.33 1.32 1.40]
+Finger Speed (unweighted): [0.87 3.47 3.64 19.38 8.97 6.40 4.75 2.10]
+Highest Speed (weighted): 3.52 (LI)
+Highest Speed (unweighted): 19.38 (LI)
 Index Usage: 15.9% 13.3%
 SFBs: 0.846%
 DSFBs: 6.057%
-LSBs: 1.11%
+LSBs: 0.14%
 Top SFBs:
-        sc 0.138%       ue 0.129%       ny 0.119%       rl 0.077%
-        oa 0.075%       gs 0.061%       nf 0.060%       ws 0.042%
+	sc 0.138%	ue 0.129%	ny 0.119%	rl 0.077%
+	oa 0.075%	gs 0.061%	nf 0.060%	ws 0.042%
 
 Worst Bigrams:
-        sc 22.497       ue 17.029       oa 11.602       vc 10.950
-        bc 10.827       lr 10.328       mh 8.183        i. 7.824
+	ue 18.490	sc 12.736	oa 12.597	lr 11.214
+	i. 10.508	mh 8.885	,i 7.684	vc 7.066
 
-Score: 39.18
+Score: 35.43
 ```
 
-Workmod:
+Rest:
 
 ```
-Workmod
-q d r w b  j f u p ;
-a s n t m  y h e i o '
-z x g c v  k l , . /
-Rolls (l): 22.39%
-        Inward: ~14.94%
-        Outward: ~7.45%
-Rolls (r): 22.07%
-        Inward: ~6.71%
-        Outward: ~15.36%
-Alternates: ~32.26%
-Onehands: ~2.00%
-Redirects: ~10.43%
-Finger Speed (weighted): [0.11 0.91 1.15 6.77 3.57 1.52 1.33 0.59]
-Finger Speed (unweighted): [0.16 3.27 5.53 37.24 19.65 7.29 4.80 0.89]
-Highest Speed (weighted): 6.77 (LI)
-Highest Speed (unweighted): 37.24 (LI)
-Index Usage: 20.8% 13.7%
-SFBs: 1.812%
-DSFBs: 7.432%
-LSBs: 1.20%
+Rest
+q y w m g  ; b o u j
+r e s t d  f n a i l '
+z x c v k  p h , . /
+Rolls (l): 20.61%
+	Inward: 9.88%
+	Outward: 10.73%
+Rolls (r): 27.15%
+	Inward: 13.24%
+	Outward: 13.91%
+Alternates: 25.97%
+Onehands: 5.47%
+Redirects: 10.57%
+Finger Speed (weighted): [0.11 1.15 0.35 8.69 2.07 1.82 1.52 0.14]
+Finger Speed (unweighted): [0.17 4.14 1.69 47.80 11.41 8.73 5.46 0.21]
+Highest Speed (weighted): 8.69 (LI)
+Highest Speed (unweighted): 47.80 (LI)
+Index Usage: 22.0% 17.2%
+SFBs: 1.344%
+DSFBs: 7.339%
+LSBs: 0.44%
 Top SFBs:
-        ly 0.413%       ct 0.370%       e, 0.183%       rn 0.137%
-        pi 0.133%       ds 0.132%       ue 0.129%       ip 0.099%
+	ct 0.370%	ck 0.195%	ey 0.163%	ye 0.123%
+	ui 0.107%	oa 0.075%	ph 0.070%	nf 0.060%
 
 Worst Bigrams:
-        yl 25.011       fl 16.660       rn 14.327       pi 13.155
-        tc 12.906       ue 12.772       tg 11.795       ds 11.765
+	ck 21.204	tc 17.334	mc 16.487	ye 14.350
+	dc 14.065	oa 12.597	ui 12.490	o, 12.317
 
-Score: 51.21
+Score: 49.45
+```
+
+Colemak:
+
+```
+Colemak
+q w f p g  j l u y ;
+a r s t d  h n e i o '
+z x c v b  k m , . /
+Rolls (l): 18.04%
+	Inward: 11.48%
+	Outward: 6.57%
+Rolls (r): 28.64%
+	Inward: 13.75%
+	Outward: 14.89%
+Alternates: 30.81%
+Onehands: 2.51%
+Redirects: 10.74%
+Finger Speed (weighted): [0.42 0.53 1.85 4.29 5.01 1.79 1.44 0.60]
+Finger Speed (unweighted): [0.63 1.91 8.87 23.58 27.57 8.59 5.18 0.90]
+Highest Speed (weighted): 5.01 (RI)
+Highest Speed (unweighted): 27.57 (RI)
+Index Usage: 19.2% 18.9%
+SFBs: 1.092%
+DSFBs: 7.903%
+LSBs: 2.42%
+Top SFBs:
+	e, 0.183%	sc 0.138%	ue 0.129%	y. 0.087%
+	nk 0.079%	pt 0.078%	nl 0.068%	kn 0.055%
+
+Worst Bigrams:
+	lm 17.391	tb 16.446	sc 14.593	ue 13.868
+	y. 12.940	fc 11.532	e, 9.753	nm 9.284
+
+Score: 50.31
 ```
 
 Colemak DH:
@@ -254,31 +288,31 @@ q w f p b  j l u y ;
 a r s t g  m n e i o '
 z x c d v  k h , . /
 Rolls (l): 18.04%
-        Inward: 11.48%
-        Outward: 6.57%
+	Inward: 11.48%
+	Outward: 6.57%
 Rolls (r): 28.64%
-        Inward: 13.75%
-        Outward: 14.89%
+	Inward: 13.75%
+	Outward: 14.89%
 Alternates: 30.81%
 Onehands: 2.51%
 Redirects: 10.74%
-Finger Speed (weighted): [0.34 0.48 1.48 3.81 4.84 1.52 1.21 0.59]
-Finger Speed (unweighted): [0.50 1.73 7.09 20.94 26.60 7.29 4.34 0.89]
-Highest Speed (weighted): 4.84 (RI)
-Highest Speed (unweighted): 26.60 (RI)
+Finger Speed (weighted): [0.42 0.53 1.85 4.00 4.90 1.79 1.44 0.60]
+Finger Speed (unweighted): [0.63 1.91 8.87 21.99 26.95 8.59 5.18 0.90]
+Highest Speed (weighted): 4.90 (RI)
+Highest Speed (unweighted): 26.95 (RI)
 Index Usage: 19.2% 18.9%
 SFBs: 1.092%
 DSFBs: 7.903%
-LSBs: 1.66%
+LSBs: 1.12%
 Top SFBs:
-        e, 0.183%       sc 0.138%       ue 0.129%       y. 0.087%
-        nk 0.079%       pt 0.078%       nl 0.068%       kn 0.055%
+	e, 0.183%	sc 0.138%	ue 0.129%	y. 0.087%
+	nk 0.079%	pt 0.078%	nl 0.068%	kn 0.055%
 
 Worst Bigrams:
-        lh 13.082       ue 12.772       lk 11.823       sc 10.865
-        y. 10.820       fc 9.643        mn 9.623        bt 9.544
+	lh 15.644	sc 14.593	ue 13.868	y. 12.940
+	fc 11.532	e, 9.753	mn 9.623	mh 9.123
 
-Score: 44.53
+Score: 47.81
 ```
 
 Workman (the original, non angled):
@@ -289,31 +323,31 @@ q d r w b  j f u p ;
 a s h t g  y n e o i '
 z x m c v  k l , . /
 Rolls (l): 21.25%
-        Inward: 9.28%
-        Outward: 11.97%
+	Inward: 9.28%
+	Outward: 11.97%
 Rolls (r): 22.98%
-        Inward: 14.62%
-        Outward: 8.35%
+	Inward: 14.62%
+	Outward: 8.35%
 Alternates: 30.00%
 Onehands: 3.14%
 Redirects: 10.53%
-Finger Speed (weighted): [0.34 0.86 3.28 3.78 4.89 1.52 2.01 0.73]
-Finger Speed (unweighted): [0.50 3.09 15.73 20.80 26.89 7.29 7.25 1.09]
-Highest Speed (weighted): 4.89 (RI)
-Highest Speed (unweighted): 26.89 (RI)
+Finger Speed (weighted): [0.42 0.94 3.87 4.10 6.22 1.79 2.28 0.73]
+Finger Speed (unweighted): [0.63 3.40 18.59 22.54 34.19 8.59 8.19 1.09]
+Highest Speed (weighted): 6.22 (RI)
+Highest Speed (unweighted): 34.19 (RI)
 Index Usage: 18.4% 16.0%
 SFBs: 2.370%
 DSFBs: 7.500%
-LSBs: 1.40%
+LSBs: 0.99%
 Top SFBs:
-        ly 0.413%       ct 0.370%       po 0.296%       op 0.235%
-        e, 0.183%       rm 0.136%       ds 0.132%       ue 0.129%
+	ly 0.413%	ct 0.370%	po 0.296%	op 0.235%
+	e, 0.183%	rm 0.136%	ds 0.132%	ue 0.129%
 
 Worst Bigrams:
-        rm 39.302       yl 25.011       po 23.386       fl 16.660
-        tc 12.906       ue 12.772       ds 11.765       rh 9.652
+	rm 47.001	yl 43.097	po 25.392	fl 19.923
+	tc 17.334	ue 13.868	ds 12.774	nl 11.278
 
-Score: 54.34
+Score: 62.77
 ```
 
 Semimak JQ:
