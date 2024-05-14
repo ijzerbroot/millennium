@@ -105,8 +105,8 @@ a o e s c  m t n i h -
 Bamboo
 ```
 q , u f w  k d h l y
-a o e s c  m t n r i -
- x z g b j  p v / ; .  
+a o e s g  m t n r i -
+ x z c b j  p v / ; .  
 ```
 
 Millennium
