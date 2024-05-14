@@ -1,4 +1,4 @@
-# Millennium / Millennium_Y / Orderly / Rest
+# Millennium / Millennium_Y / (Dis)orderly / Rest
 
 Millennium, Millennium_Y, Orderly and Rest are custom keyboard layouts that are meant to improve touch typing comfort (for me at least!)
 Being mostly based on prior work from the AKL community, Millennium tries to avoid the following:
@@ -11,6 +11,7 @@ Being mostly based on prior work from the AKL community, Millennium tries to avo
 Orderly could be considered Boo-for-dummies, especially the ZXC-variant that keeps some QWERTY keys in place.
 It is currently (2024) my favorite layout because of how it flows. It is however not the most _theoretically efficient_ layout imaginable (but not too bad either).
 The non-ZXC variant was adapted to suggestions made by Ian Douglas of [keyboard-design](https://www.keyboard-design.com/) fame. It generally improves left-hand motion but gives up QWERTY ZXC. Orderly needs to be used with angle (left index finger types QWERTY's C).
+There is a variant called `Disorderly` which switches the rightmost columns and may technically be better but L on pinky is an acquired taste and I'm not yet convinced.
 
 `Rest` on the other hand is an adaptation of QWERTY's hand distribution (rhythm) that better suits my preferences (and scores better on genkey as well).
 The idea behind `Rest` is to keep some vague semblance to QWERTY while prioritizing my personal comfort. The only keys that change hands are `M` and `F` and arguably `B`/`K` if you would tend to use your left hand for the B-key.
@@ -59,6 +60,9 @@ Orderly ZXC (angle):
 Orderly (angle):
 ![Orderly](https://github.com/ijzerbroot/millennium/blob/main/orderly.png)
 
+Disorderly (angle):
+![Orderly](https://github.com/ijzerbroot/millennium/blob/main/disorderly.png)
+
 Rest:
 ![Rest](https://github.com/ijzerbroot/millennium/blob/main/rest.png)
 
@@ -84,6 +88,13 @@ Orderly ZXC
 q , u g f  k d r l y  
 a o e s w  m t n h i -
  z x c b j  p v / . ;
+```
+
+Disorderly
+```
+q , u f w  k d r y l  
+a o e s c  m t n i h -
+ x z g b j  p v / ; .  
 ```
 
 Millennium
