@@ -8,8 +8,8 @@ Being mostly based on prior work from the AKL community, Millennium tries to avo
 - Awkward finger stretches in general.
 
 `Orderly` is my heavily modified take on the wonderful [Boo layout](https://ballerboo.github.io/boolayout/) that I personally found too difficult to use.
-Orderly could be considered Boo-for-dummies, especially the ZXC-variant that keeps some QWERTY keys in place.
-It is currently (2024) my favorite layout because of how it flows. It is however not the most _theoretically efficient_ layout imaginable (but not too bad either).
+Orderly and bamboo could be considered Boo-for-dummies, especially the ZXC orderly-variant that keeps some QWERTY keys in place.
+There are currently (2024) my favorite layouts because of how the special flow. It is however not the most _theoretically efficient_ layout imaginable (but not too bad either).
 The non-ZXC variant was adapted to suggestions made by Ian Douglas of [keyboard-design](https://www.keyboard-design.com/) fame. It generally improves left-hand motion but gives up QWERTY ZXC. Orderly needs to be used with angle (left index finger types QWERTY's C).
 There is a variant called `Disorderly` which switches the rightmost columns and may technically be better but L on pinky is an acquired taste and I'm not yet convinced.
 
