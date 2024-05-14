@@ -13,7 +13,7 @@ There are currently (2024) my favorite layouts because of how the special flow. 
 The non-ZXC variant was adapted to suggestions made by Ian Douglas of [keyboard-design](https://www.keyboard-design.com/) fame. It generally improves left-hand motion but gives up QWERTY ZXC. Orderly needs to be used with angle (left index finger types QWERTY's C).
 There is a variant called `Disorderly` which switches the rightmost columns and may technically be better but L on pinky is an acquired taste and I'm not yet convinced.
 
-`Bamboo` is another variation on Orderly and is quite close to the inspiration `Boo`.
+`Bamboo` and `Peekaboo` are other variations on Orderly and are more similar to the inspiration `Boo`.
 
 `Rest` on the other hand is an adaptation of QWERTY's hand distribution (rhythm) that better suits my preferences (and scores better on genkey as well).
 The idea behind `Rest` is to keep some vague semblance to QWERTY while prioritizing my personal comfort. The only keys that change hands are `M` and `F` and arguably `B`/`K` if you would tend to use your left hand for the B-key.
@@ -68,6 +68,9 @@ Disorderly (angle):
 Bamboo (angle):
 ![Bamboo](https://github.com/ijzerbroot/millennium/blob/main/bamboo.png)
 
+Peekaboo (angle)
+![Peekaboo](https://github.com/ijzerbroot/millennium/blob/main/peekaboo.png)
+
 Rest:
 ![Rest](https://github.com/ijzerbroot/millennium/blob/main/rest.png)
 
@@ -107,6 +110,13 @@ Bamboo
 q , u f w  k d h l y
 a o e s g  m t n r i -
  x z c b j  p v / ; .  
+```
+
+Peekaboo
+```
+q , u f w  k m d l y
+a o e s g  p n t r i -
+ x z c b j  v h / ; .  
 ```
 
 Millennium
