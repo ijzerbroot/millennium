@@ -114,8 +114,8 @@ a o e s g  m t n r i -
 
 Peekaboo
 ```
-q , u f w  k m d l y
-a o e s g  b n t r i -
+q , u f w  k b d l y
+a o e s g  m n t r i -
  x z c v j  p h / ; .  
 ```
 
