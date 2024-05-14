@@ -10,7 +10,7 @@ Being mostly based on prior work from the AKL community, Millennium tries to avo
 `Orderly` is my heavily modified take on the wonderful [Boo layout](https://ballerboo.github.io/boolayout/) that I personally found too difficult to use.
 Orderly could be considered Boo-for-dummies, especially the ZXC-variant that keeps some QWERTY keys in place.
 It is currently (2024) my favorite layout because of how it flows. It is however not the most _theoretically efficient_ layout imaginable (but not too bad either).
-The non-ZXV variant was adapted to suggestions made by Ian Douglas of [keyboard-design](https://www.keyboard-design.com/) fame. It generally improves left-hand motion but gives up QWERTY ZXC and G.
+The non-ZXC variant was adapted to suggestions made by Ian Douglas of [keyboard-design](https://www.keyboard-design.com/) fame. It generally improves left-hand motion but gives up QWERTY ZXC and G.
 
 `Rest` on the other hand is an adaptation of QWERTY's hand distribution (rhythm) that better suits my preferences (and scores better on genkey as well).
 The idea behind `Rest` is to keep some vague semblance to QWERTY while prioritizing my personal comfort. The only keys that change hands are `M` and `F` and arguably `B`/`K` if you would tend to use your left hand for the B-key.
