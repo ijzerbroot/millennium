@@ -94,7 +94,7 @@ Disorderly
 ```
 q , u f w  k d r y l  
 a o e s c  m t n i h -
- x z g b j  p v / ; .  
+ x z g b j  p v / . ;  
 ```
 
 Millennium
