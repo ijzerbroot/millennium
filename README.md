@@ -10,7 +10,7 @@ Being mostly based on prior work from the AKL community, Millennium tries to avo
 `Orderly` is my heavily modified take on the wonderful [Boo layout](https://ballerboo.github.io/boolayout/) that I personally found too difficult to use.
 Orderly could be considered Boo-for-dummies, especially the ZXC-variant that keeps some QWERTY keys in place.
 It is currently (2024) my favorite layout because of how it flows. It is however not the most _theoretically efficient_ layout imaginable (but not too bad either).
-The non-ZXC variant was adapted to suggestions made by Ian Douglas of [keyboard-design](https://www.keyboard-design.com/) fame. It generally improves left-hand motion but gives up QWERTY ZXC.
+The non-ZXC variant was adapted to suggestions made by Ian Douglas of [keyboard-design](https://www.keyboard-design.com/) fame. It generally improves left-hand motion but gives up QWERTY ZXC. Orderly needs to be used with angle (left index finger types QWERTY's C).
 
 `Rest` on the other hand is an adaptation of QWERTY's hand distribution (rhythm) that better suits my preferences (and scores better on genkey as well).
 The idea behind `Rest` is to keep some vague semblance to QWERTY while prioritizing my personal comfort. The only keys that change hands are `M` and `F` and arguably `B`/`K` if you would tend to use your left hand for the B-key.
@@ -38,10 +38,10 @@ What works for me may be bad for you and you should certainly expect that any QW
 
 The layouts proper:
 
-Using angle mod (you type QWERTY C with your left index finger):
+Millennium Angle (you type QWERTY C with your left index finger):
 ![Millennium Angle](https://github.com/ijzerbroot/millennium/blob/main/millennium-angle.png)
 
-Without angle mod (you type QWERTY C with your left middle finger):
+Millennium (you type QWERTY C with your left middle finger):
 ![Millennium](https://github.com/ijzerbroot/millennium/blob/main/millennium.png)
 
 There is an alternative swap possible that will provide a more even load on the index fingers and makes the "my" and "sy" bigrams better.
@@ -119,5 +119,4 @@ Rest
 q y w m g ; f o u j
 r e s t d b n a i l
  z x c v k p h , . /
-```
 ```
