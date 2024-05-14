@@ -67,3 +67,57 @@ Rest:
 
 I initially wanted to post detailed stats on the layouts but found that they are too dependent on analyzer-flavors and their configuration. The numbers might be misleading.
 Overall all the above layouts have massively improved statistics compared to QWERTY, regardless of which analyzer you care to use. Feel free to try.
+
+## In ASCII
+
+Here are the layouts in copy-pasteable format:
+
+Orderly
+```
+q , u f w  k d r l y  
+a o e s c  m t n h i -
+ x z g b j  p v / ; .  
+```
+
+Orderly ZXC
+```
+q , u g f  k d r l y  
+a o e s w  m t n h i -
+ z x c b j  p v / . ;
+```
+
+Millennium
+```
+m l d g w  q f o u ,  
+h r t s y  p n a e i /
+ z x k c v  j b ' ; .
+```
+
+Millennium Y
+```
+m l d g v  q f o u ,  
+h r t s w  j n a e i /
+ z x k c b  p y ' ; .  
+```
+
+Millennium Angle
+```
+m l d g v  q f o u ,  
+h r t s y  p n a e i /
+ x k c w z  j b ' ; .
+```
+
+Millennium Y Angle
+```
+m l d g v  q f o u ,  
+h r t s b  j n a e i /
+ x k c w z  p y ' ; .  
+```
+
+Rest
+```
+q y w m g ; f o u j
+r e s t d b n a i l
+ z x c v k p h , . /
+```
+```
