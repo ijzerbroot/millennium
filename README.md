@@ -1,6 +1,6 @@
 # Millennium / Millennium_Y / Peekaboo / Bamboo / (Dis)orderly / Rest
 
-Millennium, Millennium_Y, Orderly and Rest are custom keyboard layouts that are meant to improve touch typing comfort (for me at least!)
+These are custom keyboard layouts that are meant to improve touch typing comfort (for me at least!)
 Being mostly based on prior work from the AKL community, Millennium tries to avoid the following:
 
 - Commonly used letter combinations under the same finger
