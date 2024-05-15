@@ -114,9 +114,9 @@ a o e s g  m t n r i -
 
 Peekaboo
 ```
-. , u f w k d n l y
-a o e s g m t h r i -
- z q c b j v p / x ;
+. , u f w  k d n l y
+a o e s g  m t h r i
+ x z c p q  b v j / ;
 ```
 
 Millennium
