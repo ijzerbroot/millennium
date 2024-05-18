@@ -1,4 +1,4 @@
-# Millennium / Millennium_Y / Peekaboo / Bamboo / (Dis)orderly / Rest
+# Millennium / Millennium_Y / Skeletor / Rest 
 
 These are custom keyboard layouts that are meant to improve touch typing comfort (for me at least!)
 Being mostly based on prior work from the AKL community, Millennium tries to avoid the following:
@@ -7,20 +7,16 @@ Being mostly based on prior work from the AKL community, Millennium tries to avo
 - Reusing the same finger in short succession
 - Awkward finger stretches in general.
 
-`Orderly` is my heavily modified take on the wonderful [Boo layout](https://ballerboo.github.io/boolayout/) that I personally found too difficult to use.
-Orderly and bamboo could be considered Boo-for-dummies, especially the ZXC orderly-variant that keeps some QWERTY keys in place.
-There are currently (2024) my favorite layouts because of how the special flow. It is however not the most _theoretically efficient_ layout imaginable (but not too bad either).
-The non-ZXC variant was adapted to suggestions made by Ian Douglas of [keyboard-design](https://www.keyboard-design.com/) fame. It generally improves left-hand motion but gives up QWERTY ZXC. Orderly needs to be used with angle (left index finger types QWERTY's C).
-There is a variant called `Disorderly` which switches the rightmost columns and may technically be better but L on pinky is an acquired taste and I'm not yet convinced.
+`Skeletor` is currently my favorite layout even though it is not technically the highest-scoring layout that I ever made (it is still very strong and handily "beats" Colemak.
+It just seems to work better than anything else so far given the words that I tend to type. It is a very high alternation layout, which means that consecutive keystrokes tend to be typed with opposite hands. Some people prefer that but many don't. It is a matter of taste.
 
-`Bamboo` and `Peekaboo` are other variations on Orderly and their names are a tongue-in-cheek reference to the inspiration `Boo`.
 
 `Rest` on the other hand is an adaptation of QWERTY's hand distribution (rhythm) that better suits my preferences (and scores better on genkey as well).
 The idea behind `Rest` is to keep some vague semblance to QWERTY while prioritizing my personal comfort. The only keys that change hands are `M` and `F` and arguably `B`/`K` if you would tend to use your left hand for the B-key.
 
 It goes without saying that the base principle for all these layouts is to keep oft-used keys in easy to reach positions, where the most commonly used letters in English are on "home row".
 In addition to the above I've tried to optimize for comfortable movements, such as pressing neighboring keys in order such as with QWERTY's "ER".
-The hand-balance (share of strokes typed on left hand versus right hand) is about 46% left and 54% right for both Millennium-variants, 49/51 for Orderly and 50/50 L/R for Rest. For comparison, Colemak-DH roughly has a 44-56 balance.
+The hand-balance (share of strokes typed on left hand versus right hand) is about 46% left and 54% right for both Millennium-variants, 44/56 for Skeletor and 50/50 L/R for Rest. For comparison, Colemak-DH roughly has a 44-56 balance.
 
 Millennium and its Millennium_Y variant started from combining a few traits from layouts created by the AKL community.
 Inspiration came mainly from the excellent [Maya](https://docs.google.com/document/u/0/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/mobilebasic#h.15eb7sf9z9p9) and [Sturdy](https://docs.google.com/document/u/0/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/mobilebasic#h.gmmedttxvbs3) layouts. Kudos to Adi.Lela and Oxey.
@@ -56,20 +52,8 @@ Millennium_y (angle mod):
 Millennium_y (without angle mod):
 ![Millennium Y](https://github.com/ijzerbroot/millennium/blob/main/millennium_y.png)
 
-Orderly ZXC (angle):
-![Orderly ZXC](https://github.com/ijzerbroot/millennium/blob/main/orderly-zxc.png)
-
-Orderly (angle):
-![Orderly](https://github.com/ijzerbroot/millennium/blob/main/orderly.png)
-
-Disorderly (angle):
-![Orderly](https://github.com/ijzerbroot/millennium/blob/main/disorderly.png)
-
-Bamboo (angle):
-![Bamboo](https://github.com/ijzerbroot/millennium/blob/main/bamboo.png)
-
-Peekaboo (angle)
-![Peekaboo](https://github.com/ijzerbroot/millennium/blob/main/peekaboo.png)
+Skeletor (angle):
+![Skeletor](https://github.com/ijzerbroot/millennium/blob/main/skeletor.png)
 
 Rest:
 ![Rest](https://github.com/ijzerbroot/millennium/blob/main/rest.png)
@@ -84,40 +68,14 @@ Overall all the above layouts have massively improved statistics compared to QWE
 
 Here are the layouts in copy-pasteable format:
 
-Orderly
+
+Skeletor
 ```
-q , u f w  k d r l y  
-a o e s c  m t n h i -
- x z g b j  p v / ; .  
+k p l f v j c u o ,
+r n t d m g s e a i /
+ z x h b q y w ; ' .
 ```
 
-Orderly ZXC
-```
-q , u g f  k d r l y  
-a o e s w  m t n h i -
- z x c b j  p v / . ;
-```
-
-Disorderly
-```
-q , u f w  k d r y l  
-a o e s c  m t n i h -
- x z g b j  p v / . ;  
-```
-
-Bamboo
-```
-q , u f w  k d h l y
-a o e s g  m t n r i -
- x z c b j  p v / ; .  
-```
-
-Peekaboo
-```
-. , u f w  k d n l y
-a o e s g  m t h r i
- x z c p q  b v j / ;
-```
 
 Millennium
 ```
